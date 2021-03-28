@@ -32,7 +32,7 @@
 			</p>
 
 			<p class="lead">
-				Dit is een persoonlijke inventarisatie van erfgoedprojecten die een bijdrage kunnen leveren aan en dingen die we zouden kunnen doen voor een groenere wereld. Activisme? De tijd is er rijp voor.
+				Dit is een persoonlijke inventarisatie van erfgoedprojecten die een bijdrage leveren aan en dingen die we zouden kunnen doen voor een groenere wereld. Activisme? De tijd is er rijp voor.
 			</p>
 
 			<div class="row">
@@ -61,6 +61,17 @@
 
 					<p class="onderschrift buildings">
 						Het meer is al decennia weer terug, maar wordt nog steeds <strong>de</strong> Naardermeer genoemd, naar de polder die het ooit was.
+					</p>
+
+					<h2>Petroleumscape</h2>
+					<p>
+						In 2016-17 was in Museum Rotterdam 😭 de tentoonstelling <a href="https://museumrotterdam.nl/exhibitions/oliedam">Oliedam</a> te zien. Gebaseerd op <a href="https://doi.org/10.1177%2F0096144217752460">werk</a> van wetenschappers van de TU Delft, zag je er <a href="https://globalurbanhistory.com/2016/09/28/analyzing-the-palimpsestic-petroleumscape-of-rotterdam/">hoe de gebouwde omgeving de afgelopen 150 jaar is ingericht voor en door olie</a>.
+					</p>
+
+					<img src="assets/img/oliedam.jpg" />
+
+					<p class="onderschrift buildings">
+						De uitnodiging. Als je in kaart brengt hoe olie het landschap veranderd heeft, krijg je misschien ook ideeën over een omgekeerde beweging.
 					</p>
 					
 
@@ -203,6 +214,18 @@
 
 			<p class="onderschrift">
 				<a href="https://bioportal.naturalis.nl/result/multimedia/term=korenbloem&size=100&from=0">Enkele van de honderden korenbloemen</a> in de collectie van Naturalis.
+			</p>
+
+			<h2>Climate Action Map</h2>
+
+			<p>
+				De <a href="https://pro.europeana.eu/post/working-for-climate-justice-an-update-from-the-europeana-network-association-climate-group">Europeana Network Association Climate Group</a>, opgericht <em>"to raise awareness of climate change in the cultural heritage sector"</em>, verzamelt onder de noemer <a href="https://sites.google.com/view/glam-map">Mapping Climate Action in Arts & Culture</a> initiatieven van GLAM instellingen op het gebied van klimaat.
+			</p>
+
+			<img src="assets/img/climate-map.jpg" />
+
+			<p class="onderschrift">
+				Instellingen kunnen initiatieven delen via de Climate Action Map 
 			</p>
 
 			<!--
