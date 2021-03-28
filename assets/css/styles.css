@@ -1,0 +1,11 @@
+body{
+	margin: 24px;
+}
+img{
+	width: 100%;
+	margin-bottom: 8px;
+}
+.onderschrift{
+	font-size: 12px;
+	font-style: italic;
+}
