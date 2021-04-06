@@ -19,7 +19,7 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
-			<h1>het wilde nl</h1>
+			<h1>Het wilde NL</h1>
 		</div>
 	</div>
 </div>
@@ -71,7 +71,7 @@
 					<img src="assets/img/oliedam.jpg" />
 
 					<p class="onderschrift buildings">
-						De uitnodiging. Als je in kaart brengt hoe olie het landschap veranderd heeft, krijg je misschien ook ideeën over een omgekeerde beweging.
+						<a href="https://nl.wikipedia.org/wiki/Kunst_%26_Vaarwerk">Kunst & Vaarwerk</a>. Als je olie het landschap laat maken, kan het ook omgekeerd.
 					</p>
 					
 
@@ -81,7 +81,7 @@
 					<h2>Landschapjes</h2>
 
 					<p>
-						Stadsgezichten metadateren we vaak tot op pandniveau, maar een bosgezicht is maar een 'bosgezicht'. Het is niet altijd even makkelijk, maar beter metadateren als het om locatie gaat zou inzicht geven in de veranderingen van specifieke gebieden.
+						Stadsgezichten metadateren we vaak tot op pandniveau, maar een bosgezicht is maar een 'bosgezicht'. Het is niet altijd even makkelijk, maar beter metadateren als het om locatie gaat kan inzicht geven in de veranderingen van gebieden. En daarnaast misschien ook ons voorstellingsvermogen vergroten, als het om herinrichten van het landschap gaat.
 					</p>
 
 					<img src="assets/img/heide.jpg" />
@@ -109,7 +109,7 @@
 					
 					<h2>The Plant Collection</h2>
 					<p>
-						Bloemen in vazen te over, maar probeer eens een kamerplant op doek te vinden - vrijwel onontgonnen terrein. Naast een doek, daar vind je nog wel foto's van. Inge Meijer beschreef in <a href="https://www.stedelijk.nl/nl/evenementen/plant-collection">The Plant Collection</a> alle 39 soorten die tussen 1945 en 1983 - in het Stedelijk - op zaal naast Rothko's, Mondriaans en andere kunstwerken stonden.
+						We gaan er de wereld <a href="https://www.oneworld.nl/lezen/klimaat/de-pest-van-potgrond/">niet</a> mee redden, maar kamerplanten zouden best wat meer in museale collecties te vinden mogen zijn. Het zijn altijd bloemen in vazen, of gewoon in een tuin, als het om kunst gaat. Naast een kunstwerk - daar kwam je ze vroeger nog wel eens tegen. Inge Meijer beschreef in <a href="https://www.stedelijk.nl/nl/evenementen/plant-collection">The Plant Collection</a> alle 39 soorten die tussen 1945 en 1983 - in het Stedelijk - op zaal naast werken van Rothko, Mondriaan en anderen stonden.
 					</p>
 
 					<img src="assets/img/monstera.jpg" />
@@ -169,16 +169,27 @@
 			</p>
 
 			<p>
-				Uitrekenen wat de CO<sub>2</sub> footprint van een archief is, lijkt me lastig. Opslag is vaak uitbesteed, energieverbruik lastig te achterhalen, en electriciteit komt in vele tinten tussen grijs en groen.
+				Uitrekenen wat de CO<sub>2</sub> footprint van een archief is, is nog best lastig. Opslag is vaak uitbesteed, energieverbruik lastig te achterhalen, en electriciteit komt in vele tinten tussen grijs en groen.
 			</p>
 
 			<p>
-				Eenvoudiger te berekenen is waarschijnlijk het aantal petabytes dat een archief op <a href="https://www.backblaze.com/blog/whats-the-diff-hot-and-cold-data-storage/">hot storage</a> heeft staan. Als elke instelling dit cijfer nou eens publiceert, om vergelijking tussen verschillende jaren en instellingen mogelijk te maken? Laten we hopen dat het dan een sport wordt dat cijfer niet te hard te laten groeien, of zelfs naar beneden te krijgen.
+				Eenvoudiger te berekenen is waarschijnlijk het aantal terabytes dat een archief op <a href="https://www.backblaze.com/blog/whats-the-diff-hot-and-cold-data-storage/">hot storage</a> heeft staan. Als elke instelling dit cijfer nou eens publiceert, om vergelijking tussen verschillende jaren en instellingen mogelijk te maken? Laten we hopen dat het dan een sport wordt dat cijfer niet te hard te laten groeien, of zelfs naar beneden te krijgen.
+			</p>
+
+			<h2>Climate Action Map</h2>
+
+			<p>
+				De <a href="https://pro.europeana.eu/post/working-for-climate-justice-an-update-from-the-europeana-network-association-climate-group">Europeana Network Association Climate Group</a>, opgericht <em>"to raise awareness of climate change in the cultural heritage sector"</em>, verzamelt onder de noemer <a href="https://sites.google.com/view/glam-map">Mapping Climate Action in Arts & Culture</a> initiatieven van GLAM instellingen op het gebied van klimaat.
+			</p>
+
+			<img src="assets/img/climate-map.jpg" />
+
+			<p class="onderschrift">
+				Instellingen kunnen initiatieven delen via de Climate Action Map 
 			</p>
 			
 			
-
-
+			
 		</div>
 		<div class="col-md-3">
 
@@ -216,17 +227,35 @@
 				<a href="https://bioportal.naturalis.nl/result/multimedia/term=korenbloem&size=100&from=0">Enkele van de honderden korenbloemen</a> in de collectie van Naturalis.
 			</p>
 
-			<h2>Climate Action Map</h2>
+			<h2>Mobiliteit</h2>
 
 			<p>
-				De <a href="https://pro.europeana.eu/post/working-for-climate-justice-an-update-from-the-europeana-network-association-climate-group">Europeana Network Association Climate Group</a>, opgericht <em>"to raise awareness of climate change in the cultural heritage sector"</em>, verzamelt onder de noemer <a href="https://sites.google.com/view/glam-map">Mapping Climate Action in Arts & Culture</a> initiatieven van GLAM instellingen op het gebied van klimaat.
+				Ons huidige reis- en forensgedrag is niet houdbaar, misschien tenzij we heel erg ons best doen om het armere deel van de wereldbevolking uit auto's en vliegtuigen te weren.
 			</p>
 
-			<img src="assets/img/climate-map.jpg" />
+			<p>
+				Hoe kon men vroeger leven zonder auto, en zonder eindexamenreis naar Chersonissos?
+			</p>
+
+			<img src="assets/img/franse-kamp.jpg" />
 
 			<p class="onderschrift">
-				Instellingen kunnen initiatieven delen via de Climate Action Map 
+				<a href="https://zoeken.gooienvechthistorisch.nl/detail.php?imgid=213079272&id=213052570">Foto</a> van kampeerterrein <a href="https://nl.wikipedia.org/wiki/Franse_Kamp">De Franse Kamp</a> in 1940. Amsterdamse arbeiders kampeerden hier een luttele 25 km van huis, maar ze stonden er vaak wel de hele zomer. De vaders forensten naar hun werk in de stad, de kinderen gingen die maanden soms in Bussum naar school.
 			</p>
+			
+			<img src="assets/img/klaterbuurt.jpg" />
+
+			<p class="onderschrift">
+				Begin twintigste eeuw kon je met een uitgebreid netwerk van tramlijntjes op veel plaatsen komen. Op de <a href="https://hdl.handle.net/21.12106/ccf81fe4-f8f7-662a-dabe-5f464e2fc34b">ansichtkaart</a> station Klaterbuurt bij De Rijp, op de lijn Purmerend-Alkmaar.
+			</p>
+			
+			<img src="assets/img/zandvoort.jpg" />
+
+			<p class="onderschrift">
+				Later konden we er met de auto op uit. <a href="https://hdl.handle.net/21.12102/D316B08E46615535EADE116A488BF840">Hier</a> een dagje Zandvoort in de jaren '80.
+			</p>
+
+			
 
 			<!--
 			<img src="assets/img/krznaric.jpg" />

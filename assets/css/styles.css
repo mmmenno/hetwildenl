@@ -1,5 +1,6 @@
 body{
 	margin: 24px;
+	background-color: #fff;
 }
 img{
 	width: 100%;
@@ -8,4 +9,15 @@ img{
 .onderschrift{
 	font-size: 12px;
 	font-style: italic;
+}
+h1,h2,h3{
+	font-family: "Times New Roman";
+	font-style: italic;
+	font-weight: bold;
+}
+h1{
+	font-size: 64px;
+}
+a{
+	color: #ff0061;
 }
