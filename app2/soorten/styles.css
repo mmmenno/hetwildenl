@@ -78,3 +78,21 @@ a{
 	color: #000;
 	
 }
+.menu{
+	position: absolute;
+	z-index: 1000;
+	left: 0px;
+	top: 0px;
+	background-color: #000;
+	padding: 4px 10px;
+	font-size: 16px;
+}
+.forwardmenu{
+	position: absolute;
+	z-index: 1000;
+	right: 0px;
+	top: 0px;
+	background-color: #000;
+	padding: 4px 10px;
+	font-size: 16px;
+}

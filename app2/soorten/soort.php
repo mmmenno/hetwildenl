@@ -3,6 +3,9 @@
 <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+<div class="menu">
+  <a href="../../index.php">< start</a>
+</div>
 <?php
 
 include("../../app3/functions.php");
@@ -36,6 +39,11 @@ foreach($images as $img) {
     }
 }
 
+if (!empty(queryIndividuals($taxonId))) {
+    //print("<a href='../../app3/taxon.php?taxonid=$taxonId'><div class='imgcircleholder' style='left: -0%; top: 23%'><div class='circle' style='background-image: url(./individuals.png)'></div></div></a>");
+    print("<div class='forwardmenu'><a href='../../app3/taxon.php?taxonid=$taxonId'> alle individuen van het taxon $taxonName &gt;</a></div>");
+}
+
 #foreach ($images as $row) {
 #    print("<img src='${row['image']}' height='300'/>");
 #}
@@ -67,9 +75,6 @@ foreach ($images as $img) {
 	</a>
 <?php }
 
-if (!empty(queryIndividuals($taxonId))) {
-    print("<a href='../../app3/taxon.php?taxonid=$taxonId'><div class='imgcircleholder' style='left: -0%; top: 23%'><div class='circle' style='background-image: url(./individuals.png)'></div></div></a>");
-}
 ?>
 <div class="contentcircle">
     <h1><a href="<?=$wikiURI?>"><?=ucfirst($taxonName)?></a></h1>
