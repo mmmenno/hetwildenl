@@ -1,0 +1,5 @@
+.idea
+app2/test-gebied/sparqldata/*.json
+app3/sparqldata/*.json
+sparqldata/*.json
+app2/soorten/cookie.txt

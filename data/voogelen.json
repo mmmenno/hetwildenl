@@ -1,0 +1,2602 @@
+[
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Acanthis%20flammea%20%28332b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q20754771",
+    "depictedLabel": "Common Redpoll",
+    "depictedLabelNL": "Acanthis flammea",
+    "taxonName": "Acanthis flammea",
+    "gbif": "5231630"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Acanthis%20flammea%20%28332b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075852",
+    "depictedLabel": "Common Linnet",
+    "depictedLabelNL": "Kneu",
+    "taxonName": "Linaria cannabina",
+    "gbif": "8104397"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Acrocephalus%20arundinaceus%20%2802v%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28557",
+    "depictedLabel": "Phragmites australis",
+    "depictedLabelNL": "riet",
+    "taxonName": "Phragmites australis",
+    "gbif": "5290149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Acrocephalus%20arundinaceus%20%2802v%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q180835",
+    "depictedLabel": "Great Reed Warbler",
+    "depictedLabelNL": "grote karekiet",
+    "taxonName": "Acrocephalus arundinaceus",
+    "gbif": "2493128"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Acrocephalus%20schoenobaenus%20%28098b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28557",
+    "depictedLabel": "Phragmites australis",
+    "depictedLabelNL": "riet",
+    "taxonName": "Phragmites australis",
+    "gbif": "5290149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Acrocephalus%20schoenobaenus%20%28098b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27236",
+    "depictedLabel": "Sedge Warbler",
+    "depictedLabelNL": "rietzanger",
+    "taxonName": "Acrocephalus schoenobaenus",
+    "gbif": "2493129"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Aegithalos%20caudatus%20%28048b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q170831",
+    "depictedLabel": "Long-tailed Tit",
+    "depictedLabelNL": "staartmees",
+    "taxonName": "Aegithalos caudatus",
+    "gbif": "2495000"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Alauda%20arvensis%20%28026b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25961",
+    "depictedLabel": "Eurasian Skylark",
+    "depictedLabelNL": "veldleeuwerik",
+    "taxonName": "Alauda arvensis",
+    "gbif": "8077224"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Alauda%20arvensis%20%28380b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25961",
+    "depictedLabel": "Eurasian Skylark",
+    "depictedLabelNL": "veldleeuwerik",
+    "taxonName": "Alauda arvensis",
+    "gbif": "8077224"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Alca%20torda%20%28404b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27102",
+    "depictedLabel": "Razorbill",
+    "depictedLabelNL": "Alk (soort)",
+    "taxonName": "Alca torda",
+    "gbif": "8277073"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Alcedo%20atthis%20%28285pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q79915",
+    "depictedLabel": "Common Kingfisher",
+    "depictedLabelNL": "ijsvogel",
+    "taxonName": "Alcedo atthis",
+    "gbif": "2475532"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20acuta%20%28176b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25450",
+    "depictedLabel": "Northern Pintail",
+    "depictedLabelNL": "pijlstaart",
+    "taxonName": "Anas acuta",
+    "gbif": "2498112"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20acuta%20%28178b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25450",
+    "depictedLabel": "Northern Pintail",
+    "depictedLabelNL": "pijlstaart",
+    "taxonName": "Anas acuta",
+    "gbif": "2498112"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20clypeata%20%28253pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28106731",
+    "depictedLabel": "Northern Shoveler",
+    "depictedLabelNL": "Spatula clypeata",
+    "taxonName": "Spatula clypeata",
+    "gbif": "8332393"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20clypeata%20%28253pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25940",
+    "depictedLabel": "Anas clypeata",
+    "depictedLabelNL": "slobeend",
+    "taxonName": "Anas clypeata",
+    "gbif": "2498089"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20clypeata%20%28voor255%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28106731",
+    "depictedLabel": "Northern Shoveler",
+    "depictedLabelNL": "Spatula clypeata",
+    "taxonName": "Spatula clypeata",
+    "gbif": "8332393"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20clypeata%20%28voor255%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25940",
+    "depictedLabel": "Anas clypeata",
+    "depictedLabelNL": "slobeend",
+    "taxonName": "Anas clypeata",
+    "gbif": "2498089"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20crecca%20%28146b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25700",
+    "depictedLabel": "Eurasian Teal",
+    "depictedLabelNL": "Wintertaling",
+    "taxonName": "Anas crecca",
+    "gbif": "8214667"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20crecca%20%28148b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25700",
+    "depictedLabel": "Eurasian Teal",
+    "depictedLabelNL": "Wintertaling",
+    "taxonName": "Anas crecca",
+    "gbif": "8214667"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20penelope%20%28211pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26459",
+    "depictedLabel": "Anas penelope",
+    "depictedLabelNL": "smient",
+    "taxonName": "Anas penelope",
+    "gbif": "2498111"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20penelope%20%28211pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28106837",
+    "depictedLabel": "Eurasian Wigeon",
+    "depictedLabelNL": "Mareca penelope",
+    "taxonName": "Mareca penelope",
+    "gbif": "8000602"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20penelope%20%28348b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26459",
+    "depictedLabel": "Anas penelope",
+    "depictedLabelNL": "smient",
+    "taxonName": "Anas penelope",
+    "gbif": "2498111"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20penelope%20%28348b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q244350",
+    "depictedLabel": "Red-crested Pochard",
+    "depictedLabelNL": "krooneend",
+    "taxonName": "Netta rufina",
+    "gbif": "2498180"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20penelope%20%28voor213%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26459",
+    "depictedLabel": "Anas penelope",
+    "depictedLabelNL": "smient",
+    "taxonName": "Anas penelope",
+    "gbif": "2498111"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20penelope%20%28voor213%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28106837",
+    "depictedLabel": "Eurasian Wigeon",
+    "depictedLabelNL": "Mareca penelope",
+    "taxonName": "Mareca penelope",
+    "gbif": "8000602"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20platyrhynchos%20%28215pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25348",
+    "depictedLabel": "mallard",
+    "depictedLabelNL": "wilde eend",
+    "taxonName": "Anas platyrhynchos",
+    "gbif": "2498132"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20platyrhynchos%20%28364b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25348",
+    "depictedLabel": "mallard",
+    "depictedLabelNL": "wilde eend",
+    "taxonName": "Anas platyrhynchos",
+    "gbif": "2498132"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20platyrhynchos%20%28366b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25348",
+    "depictedLabel": "mallard",
+    "depictedLabelNL": "wilde eend",
+    "taxonName": "Anas platyrhynchos",
+    "gbif": "2498132"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20platyrhynchos%20%28voor217%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25348",
+    "depictedLabel": "mallard",
+    "depictedLabelNL": "wilde eend",
+    "taxonName": "Anas platyrhynchos",
+    "gbif": "2498132"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20querquedula%20%28180b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28106902",
+    "depictedLabel": "Garganey",
+    "depictedLabelNL": "Spatula querquedula",
+    "taxonName": "Spatula querquedula",
+    "gbif": "9274012"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20querquedula%20%28180b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25644",
+    "depictedLabel": "Anas querquedula",
+    "depictedLabelNL": "zomertaling",
+    "taxonName": "Anas querquedula",
+    "gbif": "2498083"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20querquedula%20%28182b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25644",
+    "depictedLabel": "Anas querquedula",
+    "depictedLabelNL": "zomertaling",
+    "taxonName": "Anas querquedula",
+    "gbif": "2498083"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20strepera%20%28314b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25889",
+    "depictedLabel": "Anas strepera",
+    "depictedLabelNL": "krakeend",
+    "taxonName": "Anas strepera",
+    "gbif": "2498151"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anas%20strepera%20%28316b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25889",
+    "depictedLabel": "Anas strepera",
+    "depictedLabelNL": "krakeend",
+    "taxonName": "Anas strepera",
+    "gbif": "2498151"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anser%20albifrons%20%28207pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q172093",
+    "depictedLabel": "Greater White-fronted Goose",
+    "depictedLabelNL": "kolgans",
+    "taxonName": "Anser albifrons",
+    "gbif": "2498017"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anser%20anser%20%28203pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25882",
+    "depictedLabel": "Greylag Goose",
+    "depictedLabelNL": "grauwe gans",
+    "taxonName": "Anser anser",
+    "gbif": "2498036"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anser%20anser%20%28203pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26452",
+    "depictedLabel": "Bean Goose",
+    "depictedLabelNL": "rietgans",
+    "taxonName": "Anser fabalis",
+    "gbif": "2498027"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anthus%20pratensis%20%28209pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26956",
+    "depictedLabel": "Meadow Pipit",
+    "depictedLabelNL": "graspieper",
+    "taxonName": "Anthus pratensis",
+    "gbif": "2490266"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Anthus%20pratensis%20%28209pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q161566",
+    "depictedLabel": "Symphytum",
+    "depictedLabelNL": "Symphytum",
+    "taxonName": "Symphytum",
+    "gbif": "2926061"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Apus%20apus%20%28036b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25377",
+    "depictedLabel": "Common Swift",
+    "depictedLabelNL": "gierzwaluw",
+    "taxonName": "Apus apus",
+    "gbif": "5228676"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ardea%20cinerea%20%28289pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25273",
+    "depictedLabel": "Grey Heron",
+    "depictedLabelNL": "blauwe reiger",
+    "taxonName": "Ardea cinerea",
+    "gbif": "9797180"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ardea%20purpurea%20%28352b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q160488",
+    "depictedLabel": "Purple Heron",
+    "depictedLabelNL": "purperreiger",
+    "taxonName": "Ardea purpurea",
+    "gbif": "2480934"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ardeola%20ralloides%20%28456b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q191394",
+    "depictedLabel": "Squacco Heron",
+    "depictedLabelNL": "Ralreiger",
+    "taxonName": "Ardeola ralloides",
+    "gbif": "2480906"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Arenaria%20interpres%20%28291pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26892",
+    "depictedLabel": "Ruddy Turnstone",
+    "depictedLabelNL": "steenloper",
+    "taxonName": "Arenaria interpres",
+    "gbif": "2481776"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Asio%20flammeus%20%28062d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25769",
+    "depictedLabel": "Short-eared Owl",
+    "depictedLabelNL": "velduil",
+    "taxonName": "Asio flammeus",
+    "gbif": "2497295"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Asio%20flammeus%20%28064a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25769",
+    "depictedLabel": "Short-eared Owl",
+    "depictedLabelNL": "velduil",
+    "taxonName": "Asio flammeus",
+    "gbif": "2497295"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Asio%20flammeus%20%28064a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q193192",
+    "depictedLabel": "Hawk Owl",
+    "depictedLabelNL": "Sperweruil",
+    "taxonName": "Surnia ulula",
+    "gbif": "2497894"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Asio%20otus%20%28302b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25384",
+    "depictedLabel": "Long-eared Owl",
+    "depictedLabelNL": "ransuil",
+    "taxonName": "Asio otus",
+    "gbif": "2497306"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Athene%20noctua%20%28068b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q129958",
+    "depictedLabel": "Little Owl",
+    "depictedLabelNL": "steenuil",
+    "taxonName": "Athene noctua",
+    "gbif": "2497266"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Aythya%20fuligula%20%28277pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26444",
+    "depictedLabel": "Tufted Duck",
+    "depictedLabelNL": "Kuifeend",
+    "taxonName": "Aythya fuligula",
+    "gbif": "2498261"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Aythya%20fuligula%20%28279pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26444",
+    "depictedLabel": "Tufted Duck",
+    "depictedLabelNL": "Kuifeend",
+    "taxonName": "Aythya fuligula",
+    "gbif": "2498261"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Aythya%20marila%20%28269pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26635",
+    "depictedLabel": "Greater Scaup",
+    "depictedLabelNL": "Topper",
+    "taxonName": "Aythya marila",
+    "gbif": "2498265"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Aythya%20nyroca%20%28322b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q191723",
+    "depictedLabel": "Ferruginous Duck",
+    "depictedLabelNL": "Witoogeend",
+    "taxonName": "Aythya nyroca",
+    "gbif": "2498259"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Bombycilla%20garrulus%20%28201pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26135",
+    "depictedLabel": "Bohemian Waxwing",
+    "depictedLabelNL": "pestvogel",
+    "taxonName": "Bombycilla garrulus",
+    "gbif": "2484605"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Botaurus%20stellaris%20%28074b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25709",
+    "depictedLabel": "Eurasian Bittern",
+    "depictedLabelNL": "roerdomp",
+    "taxonName": "Botaurus stellaris",
+    "gbif": "2480910"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Botaurus%20stellaris%20%28076a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25709",
+    "depictedLabel": "Eurasian Bittern",
+    "depictedLabelNL": "roerdomp",
+    "taxonName": "Botaurus stellaris",
+    "gbif": "2480910"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Botaurus%20stellaris%20%28340b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25709",
+    "depictedLabel": "Eurasian Bittern",
+    "depictedLabelNL": "roerdomp",
+    "taxonName": "Botaurus stellaris",
+    "gbif": "2480910"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Branta%20bernicla%20%28188b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27050",
+    "depictedLabel": "Brant Goose",
+    "depictedLabelNL": "rotgans",
+    "taxonName": "Branta bernicla",
+    "gbif": "5232446"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Branta%20leucopsis%20%28197pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26680",
+    "depictedLabel": "Barnacle Goose",
+    "depictedLabelNL": "Brandgans",
+    "taxonName": "Branta leucopsis",
+    "gbif": "5232464"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Bubo%20scandiacus%20%28392b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q170177",
+    "depictedLabel": "Snowy Owl",
+    "depictedLabelNL": "sneeuwuil",
+    "taxonName": "Bubo scandiacus",
+    "gbif": "5959143"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Bucephala%20clangula%20%28310b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q29865",
+    "depictedLabel": "Common Goldeneye",
+    "depictedLabelNL": "Brilduiker",
+    "taxonName": "Bucephala clangula",
+    "gbif": "2498326"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Bucephala%20clangula%20%28312b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q29865",
+    "depictedLabel": "Common Goldeneye",
+    "depictedLabelNL": "Brilduiker",
+    "taxonName": "Bucephala clangula",
+    "gbif": "2498326"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Bucephala%20clangula%20%28336b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q29865",
+    "depictedLabel": "Common Goldeneye",
+    "depictedLabelNL": "Brilduiker",
+    "taxonName": "Bucephala clangula",
+    "gbif": "2498326"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Buteo%20buteo%20%28446b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25385",
+    "depictedLabel": "Eurasian Buzzard",
+    "depictedLabelNL": "buizerd",
+    "taxonName": "Buteo buteo",
+    "gbif": "2480537"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Calidris%20alba%20%28283pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q58958",
+    "depictedLabel": "Sanderling",
+    "depictedLabelNL": "Drieteenstrandloper",
+    "taxonName": "Calidris alba",
+    "gbif": "2481748"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Calidris%20ferruginea%20%28426b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q62345",
+    "depictedLabel": "Curlew Sandpiper",
+    "depictedLabelNL": "krombekstrandloper",
+    "taxonName": "Calidris ferruginea",
+    "gbif": "2481741"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Calidris%20maritima%20%28442b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q62359",
+    "depictedLabel": "Purple Sandpiper",
+    "depictedLabelNL": "Paarse strandloper",
+    "taxonName": "Calidris maritima",
+    "gbif": "2481743"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Calidris%20minuta%20%28271pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27232",
+    "depictedLabel": "Little Stint",
+    "depictedLabelNL": "Kleine strandloper",
+    "taxonName": "Calidris minuta",
+    "gbif": "2481749"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Caprimulgus%20europaeus%20%28038b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26717",
+    "depictedLabel": "European Nightjar",
+    "depictedLabelNL": "nachtzwaluw",
+    "taxonName": "Caprimulgus europaeus",
+    "gbif": "8109681"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Carduelis%20carduelis%20%28328b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25418",
+    "depictedLabel": "European Goldfinch",
+    "depictedLabelNL": "putter",
+    "taxonName": "Carduelis carduelis",
+    "gbif": "2494686"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Carduelis%20flavirostris%20%28338b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q206648",
+    "depictedLabel": "Carduelis flavirostris",
+    "depictedLabelNL": "Carduelis flavirostris",
+    "taxonName": "Carduelis flavirostris",
+    "gbif": "2494752"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Certhia%20brachydactyla%20%28058b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q125895",
+    "depictedLabel": "Short-toed Treecreeper",
+    "depictedLabelNL": "boomkruiper",
+    "taxonName": "Certhia brachydactyla",
+    "gbif": "7806848"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Charadrius%20alexandrinus%20%28470b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18855",
+    "depictedLabel": "Kentish Plover",
+    "depictedLabelNL": "strandplevier",
+    "taxonName": "Charadrius alexandrinus",
+    "gbif": "2480311"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Charadrius%20hiaticula%20%28265pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26816",
+    "depictedLabel": "Common Ringed Plover",
+    "depictedLabelNL": "Bontbekplevier",
+    "taxonName": "Charadrius hiaticula",
+    "gbif": "9566659"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Chlidonias%20niger%20%28130b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27215",
+    "depictedLabel": "Black Tern",
+    "depictedLabelNL": "zwarte stern",
+    "taxonName": "Chlidonias niger",
+    "gbif": "2481119"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Chloris%20chloris%20%28072b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075785",
+    "depictedLabel": "European Greenfinch",
+    "depictedLabelNL": "groenling",
+    "taxonName": "Chloris chloris",
+    "gbif": "5845582"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Chroicocephalus%20ridibundus%20%28152d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25634",
+    "depictedLabel": "Black-headed Gull",
+    "depictedLabelNL": "kokmeeuw",
+    "taxonName": "Chroicocephalus ridibundus",
+    "gbif": "6065824"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Chroicocephalus%20ridibundus%20%28154b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25634",
+    "depictedLabel": "Black-headed Gull",
+    "depictedLabelNL": "kokmeeuw",
+    "taxonName": "Chroicocephalus ridibundus",
+    "gbif": "6065824"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Chroicocephalus%20ridibundus%20%28281pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26427",
+    "depictedLabel": "Common Gull",
+    "depictedLabelNL": "stormmeeuw",
+    "taxonName": "Larus canus",
+    "gbif": "7982160"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ciconia%20ciconia%20%28174b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25352",
+    "depictedLabel": "White Stork",
+    "depictedLabelNL": "ooievaar",
+    "taxonName": "Ciconia ciconia",
+    "gbif": "2481912"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ciconia%20nigra%20%28458b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25398",
+    "depictedLabel": "Black Stork",
+    "depictedLabelNL": "zwarte ooievaar",
+    "taxonName": "Ciconia nigra",
+    "gbif": "2481909"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cinclus%20cinclus%20%28024b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25469",
+    "depictedLabel": "Common Starling",
+    "depictedLabelNL": "spreeuw",
+    "taxonName": "Sturnus vulgaris",
+    "gbif": "9809229"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cinclus%20cinclus%20%28024b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q201831",
+    "depictedLabel": "White-throated Dipper",
+    "depictedLabelNL": "Waterspreeuw",
+    "taxonName": "Cinclus cinclus",
+    "gbif": "2495093"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Circus%20aeruginosus%20%28014c%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26431",
+    "depictedLabel": "Western Marsh Harrier",
+    "depictedLabelNL": "Bruine kiekendief",
+    "taxonName": "Circus aeruginosus",
+    "gbif": "2480482"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Circus%20aeruginosus%20%28016c%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26431",
+    "depictedLabel": "Western Marsh Harrier",
+    "depictedLabelNL": "Bruine kiekendief",
+    "taxonName": "Circus aeruginosus",
+    "gbif": "2480482"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Circus%20cyaneus%20%28390b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25572",
+    "depictedLabel": "Hen Harrier",
+    "depictedLabelNL": "blauwe kiekendief",
+    "taxonName": "Circus cyaneus",
+    "gbif": "2480487"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Coccothraustes%20coccothraustes%20%28136b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Coccothraustes%20coccothraustes%20%28136b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q174088",
+    "depictedLabel": "Hawfinch",
+    "depictedLabelNL": "Appelvink",
+    "taxonName": "Coccothraustes coccothraustes",
+    "gbif": "2494329"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Coloeus%20monedula%20%28219pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25345384",
+    "depictedLabel": "Western Jackdaw",
+    "depictedLabelNL": "Kauw (vogel)",
+    "taxonName": "Coloeus monedula",
+    "gbif": "6100954"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Columba%20livia%20%28012b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q42326",
+    "depictedLabel": "Rock Dove",
+    "depictedLabelNL": "rotsduif",
+    "taxonName": "Columba livia",
+    "gbif": "2495414"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Columba%20oenas%20%28406b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26140",
+    "depictedLabel": "Stock Dove",
+    "depictedLabelNL": "Holenduif",
+    "taxonName": "Columba oenas",
+    "gbif": "2495471"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Columba%20palumbus%20%28008b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26026",
+    "depictedLabel": "Common Wood Pigeon",
+    "depictedLabelNL": "houtduif",
+    "taxonName": "Columba palumbus",
+    "gbif": "2495455"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Columba%20palumbus%20%28010a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26026",
+    "depictedLabel": "Common Wood Pigeon",
+    "depictedLabelNL": "houtduif",
+    "taxonName": "Columba palumbus",
+    "gbif": "2495455"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Corvus%20cornix%20%28205pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25405",
+    "depictedLabel": "Hooded Crow",
+    "depictedLabelNL": "bonte kraai",
+    "taxonName": "Corvus cornix",
+    "gbif": "2482515"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Corvus%20corone%20%28223pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26198",
+    "depictedLabel": "Carrion Crow",
+    "depictedLabelNL": "zwarte kraai",
+    "taxonName": "Corvus corone",
+    "gbif": "9409796"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Corvus%20frugilegus%20%28199pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25386",
+    "depictedLabel": "Rook",
+    "depictedLabelNL": "roek",
+    "taxonName": "Corvus frugilegus",
+    "gbif": "2482513"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Coturnix%20coturnix%20%28142b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28358",
+    "depictedLabel": "Common Quail",
+    "depictedLabelNL": "kwartel",
+    "taxonName": "Coturnix coturnix",
+    "gbif": "2474156"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Crex%20crex%20%28275pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26017",
+    "depictedLabel": "Corn Crake",
+    "depictedLabelNL": "Kwartelkoning",
+    "taxonName": "Crex crex",
+    "gbif": "4408498"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cuculus%20canorus%20%28116b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18845",
+    "depictedLabel": "Common Cuckoo",
+    "depictedLabelNL": "koekoek",
+    "taxonName": "Cuculus canorus",
+    "gbif": "5231918"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cuculus%20canorus%20%28326b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18845",
+    "depictedLabel": "Common Cuckoo",
+    "depictedLabelNL": "koekoek",
+    "taxonName": "Cuculus canorus",
+    "gbif": "5231918"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cyanistes%20caeruleus%20%28044b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25404",
+    "depictedLabel": "Eurasian Blue Tit",
+    "depictedLabelNL": "pimpelmees",
+    "taxonName": "Cyanistes caeruleus",
+    "gbif": "2487879"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cygnus%20cygnus%20%28490b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25612",
+    "depictedLabel": "Whooper Swan",
+    "depictedLabelNL": "wilde zwaan",
+    "taxonName": "Cygnus cygnus",
+    "gbif": "2498347"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cygnus%20cygnus%20%28492b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25402",
+    "depictedLabel": "Mute Swan",
+    "depictedLabelNL": "knobbelzwaan",
+    "taxonName": "Cygnus olor",
+    "gbif": "2498343"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Cygnus%20cygnus%20%28492b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25612",
+    "depictedLabel": "Whooper Swan",
+    "depictedLabelNL": "wilde zwaan",
+    "taxonName": "Cygnus cygnus",
+    "gbif": "2498347"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Delichon%20urbicum%20%28032b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26055",
+    "depictedLabel": "Common House Martin",
+    "depictedLabelNL": "Huiszwaluw",
+    "taxonName": "Delichon urbicum",
+    "gbif": "2489214"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Dendrocopos%20major%20%28040b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26209",
+    "depictedLabel": "Great Spotted Woodpecker",
+    "depictedLabelNL": "grote bonte specht",
+    "taxonName": "Dendrocopos major",
+    "gbif": "2477968"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Dendrocopos%20minor%20%28356b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q184518",
+    "depictedLabel": "Lesser Spotted Woodpecker",
+    "depictedLabelNL": "kleine bonte specht",
+    "taxonName": "Dryobates minor",
+    "gbif": "2477950"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Dendrocopos%20minor%20%28356b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q184518",
+    "depictedLabel": "Lesser Spotted Woodpecker",
+    "depictedLabelNL": "kleine bonte specht",
+    "taxonName": "Dryobates minor",
+    "gbif": "9015784"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Dryocopus%20martius%20%28384b%29%20%28cropped%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q143284",
+    "depictedLabel": "Black Woodpecker",
+    "depictedLabelNL": "zwarte specht",
+    "taxonName": "Dryocopus martius",
+    "gbif": "2477872"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Dryocopus%20martius%20%28384b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q143284",
+    "depictedLabel": "Black Woodpecker",
+    "depictedLabelNL": "zwarte specht",
+    "taxonName": "Dryocopus martius",
+    "gbif": "2477872"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Dryocopus%20martius%20%28386b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q143284",
+    "depictedLabel": "Black Woodpecker",
+    "depictedLabelNL": "zwarte specht",
+    "taxonName": "Dryocopus martius",
+    "gbif": "2477872"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Emberiza%20calandra%20%28436b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27220",
+    "depictedLabel": "Corn Bunting",
+    "depictedLabelNL": "Grauwe gors",
+    "taxonName": "Emberiza calandra",
+    "gbif": "7634625"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Emberiza%20citrinella%20%28114b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26205",
+    "depictedLabel": "Yellowhammer",
+    "depictedLabelNL": "Geelgors",
+    "taxonName": "Emberiza citrinella",
+    "gbif": "2491534"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Emberiza%20hortulana%20%28144b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q146149",
+    "depictedLabel": "Fagus sylvatica",
+    "depictedLabelNL": "beuk",
+    "taxonName": "Fagus sylvatica",
+    "gbif": "2882316"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Emberiza%20hortulana%20%28144b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q206630",
+    "depictedLabel": "Ortolan Bunting",
+    "depictedLabelNL": "Ortolaan",
+    "taxonName": "Emberiza hortulana",
+    "gbif": "2491482"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Emberiza%20schoeniclus%20%28080b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26961",
+    "depictedLabel": "Reed Bunting",
+    "depictedLabelNL": "Rietgors",
+    "taxonName": "Emberiza schoeniclus",
+    "gbif": "2491557"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Erithacus%20rubecula%20%28086b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25334",
+    "depictedLabel": "European Robin",
+    "depictedLabelNL": "Roodborst",
+    "taxonName": "Erithacus rubecula",
+    "gbif": "2492462"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20peregrinus%20%28438b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q30535",
+    "depictedLabel": "Peregrine Falcon",
+    "depictedLabelNL": "slechtvalk",
+    "taxonName": "Falco peregrinus",
+    "gbif": "2481047"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20peregrinus%20%28438b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q33554",
+    "depictedLabel": "Lanner Falcon",
+    "depictedLabelNL": "lannervalk",
+    "taxonName": "Falco biarmicus",
+    "gbif": "2481032"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20subbuteo%20%28229pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25876",
+    "depictedLabel": "Eurasian Hobby",
+    "depictedLabelNL": "Boomvalk",
+    "taxonName": "Falco subbuteo",
+    "gbif": "2481035"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20tinnunculus%20%28227pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20tinnunculus%20%28227pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26490",
+    "depictedLabel": "Common Kestrel",
+    "depictedLabelNL": "torenvalk",
+    "taxonName": "Falco tinnunculus",
+    "gbif": "9616058"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20tinnunculus%20%28306b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26490",
+    "depictedLabel": "Common Kestrel",
+    "depictedLabelNL": "torenvalk",
+    "taxonName": "Falco tinnunculus",
+    "gbif": "9616058"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20tinnunculus%20%28308b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25404",
+    "depictedLabel": "Eurasian Blue Tit",
+    "depictedLabelNL": "pimpelmees",
+    "taxonName": "Cyanistes caeruleus",
+    "gbif": "2487879"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Falco%20tinnunculus%20%28308b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26490",
+    "depictedLabel": "Common Kestrel",
+    "depictedLabelNL": "torenvalk",
+    "taxonName": "Falco tinnunculus",
+    "gbif": "9616058"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ficedula%20albicollis%20%28450b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ficedula%20albicollis%20%28450b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q690826",
+    "depictedLabel": "Collared Flycatcher",
+    "depictedLabelNL": "Withalsvliegenvanger",
+    "taxonName": "Ficedula albicollis",
+    "gbif": "2492601"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Fratercula%20arctica%20%28358b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26685",
+    "depictedLabel": "Atlantic Puffin",
+    "depictedLabelNL": "Papegaaiduiker",
+    "taxonName": "Fratercula arctica",
+    "gbif": "2481353"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Fringilla%20coelebs%20%28140b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25383",
+    "depictedLabel": "Common Chaffinch",
+    "depictedLabelNL": "vink",
+    "taxonName": "Fringilla coelebs",
+    "gbif": "2494422"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Fringilla%20montifringilla%20%28225pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q188877",
+    "depictedLabel": "Brambling",
+    "depictedLabelNL": "Keep",
+    "taxonName": "Fringilla montifringilla",
+    "gbif": "2494441"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Fulica%20atra%20%28060b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25376",
+    "depictedLabel": "Common Coot",
+    "depictedLabelNL": "meerkoet",
+    "taxonName": "Fulica atra",
+    "gbif": "2474377"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Fulica%20atra%20%28062a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25376",
+    "depictedLabel": "Common Coot",
+    "depictedLabelNL": "meerkoet",
+    "taxonName": "Fulica atra",
+    "gbif": "2474377"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Gallinago%20gallinago%20%28233pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25692",
+    "depictedLabel": "Common Snipe",
+    "depictedLabelNL": "Watersnip",
+    "taxonName": "Gallinago gallinago",
+    "gbif": "2481819"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Gallinago%20media%20%28247pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27171",
+    "depictedLabel": "Great Snipe",
+    "depictedLabelNL": "poelsnip",
+    "taxonName": "Gallinago media",
+    "gbif": "2481831"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Gallinula%20chloropus%20%28070b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18847",
+    "depictedLabel": "Common Moorhen",
+    "depictedLabelNL": "waterhoen",
+    "taxonName": "Gallinula chloropus",
+    "gbif": "5228199"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Garrulus%20glandarius%20%2803va%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25354",
+    "depictedLabel": "Eurasian Jay",
+    "depictedLabelNL": "gaai",
+    "taxonName": "Garrulus glandarius",
+    "gbif": "5229493"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Gavia%20immer%20%28484b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q190342",
+    "depictedLabel": "Common Loon",
+    "depictedLabelNL": "ijsduiker",
+    "taxonName": "Gavia immer",
+    "gbif": "2481962"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Grus%20grus%20%28464b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q4764",
+    "depictedLabel": "Common Crane",
+    "depictedLabelNL": "kraanvogel",
+    "taxonName": "Grus grus",
+    "gbif": "2474950"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Gyps%20fulvus%20%28korteinhoud008%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q177856",
+    "depictedLabel": "Indian Vulture",
+    "depictedLabelNL": "vale gier",
+    "taxonName": "Gyps fulvus",
+    "gbif": "2480389"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Haematopus%20ostralegus%20%28050b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25928",
+    "depictedLabel": "Eurasian Oystercatcher",
+    "depictedLabelNL": "Scholekster",
+    "taxonName": "Haematopus ostralegus",
+    "gbif": "7788295"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Haliaeetus%20albicilla%20%28416b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25438",
+    "depictedLabel": "White-tailed Sea Eagle",
+    "depictedLabelNL": "zeearend",
+    "taxonName": "Haliaeetus albicilla",
+    "gbif": "2480449"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Haliaeetus%20albicilla%20%28418b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25438",
+    "depictedLabel": "White-tailed Sea Eagle",
+    "depictedLabelNL": "zeearend",
+    "taxonName": "Haliaeetus albicilla",
+    "gbif": "2480449"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Hippolais%20icterina%20%28100b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q159080",
+    "depictedLabel": "Eurasian Reed Warbler",
+    "depictedLabelNL": "kleine karekiet",
+    "taxonName": "Acrocephalus scirpaceus",
+    "gbif": "2493118"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Hippolais%20icterina%20%28100b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27674",
+    "depictedLabel": "Icterine Warbler",
+    "depictedLabelNL": "Spotvogel",
+    "taxonName": "Hippolais icterina",
+    "gbif": "2493220"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Hirundo%20rustica%20%28030b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25429",
+    "depictedLabel": "Barn Swallow",
+    "depictedLabelNL": "Boerenzwaluw",
+    "taxonName": "Hirundo rustica",
+    "gbif": "9515886"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Hydrobates%20pelagicus%20%28245pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27461",
+    "depictedLabel": "European Storm Petrel",
+    "depictedLabelNL": "Stormvogeltje",
+    "taxonName": "Hydrobates pelagicus",
+    "gbif": "4408455"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ixobrychus%20minutus%20%28056b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26129",
+    "depictedLabel": "Little Bittern",
+    "depictedLabelNL": "woudaap",
+    "taxonName": "Ixobrychus minutus",
+    "gbif": "2480850"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ixobrychus%20minutus%20%28056b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q164686",
+    "depictedLabel": "Plantago",
+    "depictedLabelNL": "weegbree",
+    "taxonName": "Plantago",
+    "gbif": "3189695"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Ixobrychus%20minutus%20%28058c%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26129",
+    "depictedLabel": "Little Bittern",
+    "depictedLabelNL": "woudaap",
+    "taxonName": "Ixobrychus minutus",
+    "gbif": "2480850"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Jynx%20torquilla%20%28342b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25678",
+    "depictedLabel": "Eurasian Wryneck",
+    "depictedLabelNL": "draaihals",
+    "taxonName": "Jynx torquilla",
+    "gbif": "8012314"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lanius%20collurio%20%28126b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26671",
+    "depictedLabel": "Red-backed Shrike",
+    "depictedLabelNL": "Grauwe klauwier",
+    "taxonName": "Lanius collurio",
+    "gbif": "2492852"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lanius%20excubitor%20%28120b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q184508",
+    "depictedLabel": "Great Grey Shrike",
+    "depictedLabelNL": "Klapekster",
+    "taxonName": "Lanius excubitor",
+    "gbif": "2492858"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lanius%20senator%20%28468b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q235052",
+    "depictedLabel": "Woodchat Shrike",
+    "depictedLabelNL": "Roodkopklauwier",
+    "taxonName": "Lanius senator",
+    "gbif": "2492867"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Larus%20argentatus%20%28195pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28236",
+    "depictedLabel": "European Herring Gull",
+    "depictedLabelNL": "zilvermeeuw",
+    "taxonName": "Larus argentatus",
+    "gbif": "2481139"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Larus%20marinus%20%28440b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26629",
+    "depictedLabel": "Great Black-backed Gull",
+    "depictedLabelNL": "Grote mantelmeeuw",
+    "taxonName": "Larus marinus",
+    "gbif": "2481172"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Larus%20marinus%20%28440b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27855",
+    "depictedLabel": "blue mussel",
+    "depictedLabelNL": "mossel",
+    "taxonName": "Mytilus edulis",
+    "gbif": "8288896"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Limosa%20limosa%20%28052b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18841",
+    "depictedLabel": "Black-tailed Godwit",
+    "depictedLabelNL": "grutto",
+    "taxonName": "Limosa limosa",
+    "gbif": "2481685"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Limosa%20limosa%20%28320b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18841",
+    "depictedLabel": "Black-tailed Godwit",
+    "depictedLabelNL": "grutto",
+    "taxonName": "Limosa limosa",
+    "gbif": "2481685"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Linaria%20cannabina%20%28156b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075852",
+    "depictedLabel": "Common Linnet",
+    "depictedLabelNL": "Kneu",
+    "taxonName": "Linaria cannabina",
+    "gbif": "8104397"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lophophanes%20cristatus%20%28444b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q207831",
+    "depictedLabel": "European Crested Tit",
+    "depictedLabelNL": "kuifmees",
+    "taxonName": "Lophophanes cristatus",
+    "gbif": "2487883"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Loxia%20curvirostra%20%28221pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26552",
+    "depictedLabel": "Red Crossbill",
+    "depictedLabelNL": "Kruisbek",
+    "taxonName": "Loxia curvirostra",
+    "gbif": "9629160"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lullula%20arborea%20%28344b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26969",
+    "depictedLabel": "Woodlark",
+    "depictedLabelNL": "boomleeuwerik",
+    "taxonName": "Lullula arborea",
+    "gbif": "2490604"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lullula%20arborea%20%28350b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26969",
+    "depictedLabel": "Woodlark",
+    "depictedLabelNL": "boomleeuwerik",
+    "taxonName": "Lullula arborea",
+    "gbif": "2490604"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lullula%20arborea%20%28350b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26982",
+    "depictedLabel": "Crested Lark",
+    "depictedLabelNL": "Kuifleeuwerik",
+    "taxonName": "Galerida cristata",
+    "gbif": "2490669"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Luscinia%20megarhynchos%20%28122b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Luscinia%20megarhynchos%20%28122b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25393",
+    "depictedLabel": "Common Nightingale",
+    "depictedLabelNL": "nachtegaal",
+    "taxonName": "Luscinia megarhynchos",
+    "gbif": "2492536"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Luscinia%20svecica%20%28410b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26578",
+    "depictedLabel": "Bluethroat",
+    "depictedLabelNL": "Blauwborst",
+    "taxonName": "Luscinia svecica",
+    "gbif": "4408732"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lymnocryptes%20minimus%20%28237pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26711",
+    "depictedLabel": "Jack Snipe",
+    "depictedLabelNL": "Bokje",
+    "taxonName": "Lymnocryptes minimus",
+    "gbif": "2481835"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lyrurus%20tetrix%20%28164b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q155878",
+    "depictedLabel": "Black Grouse",
+    "depictedLabelNL": "Korhoen",
+    "taxonName": "Lyrurus tetrix",
+    "gbif": "2473682"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Lyrurus%20tetrix%20%28166b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q155878",
+    "depictedLabel": "Black Grouse",
+    "depictedLabelNL": "Korhoen",
+    "taxonName": "Lyrurus tetrix",
+    "gbif": "2473682"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Melanitta%20fusca%20%28330b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q201300",
+    "depictedLabel": "Velvet Scoter",
+    "depictedLabelNL": "grote zee-eend",
+    "taxonName": "Melanitta fusca",
+    "gbif": "2498238"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Melanitta%20nigra%20%28334pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27434",
+    "depictedLabel": "common scoter",
+    "depictedLabelNL": "zwarte zee-eend",
+    "taxonName": "Melanitta nigra",
+    "gbif": "2498247"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Meleagris%20gallopavo%20%28452b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26844",
+    "depictedLabel": "Wild Turkey",
+    "depictedLabelNL": "kalkoen",
+    "taxonName": "Meleagris gallopavo",
+    "gbif": "2473551"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Meleagris%20gallopavo%20%28white%20background%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26844",
+    "depictedLabel": "Wild Turkey",
+    "depictedLabelNL": "kalkoen",
+    "taxonName": "Meleagris gallopavo",
+    "gbif": "2473551"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergellus%20albellus%20%28296b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q200646",
+    "depictedLabel": "Smew",
+    "depictedLabelNL": "Nonnetje",
+    "taxonName": "Mergellus albellus",
+    "gbif": "2498285"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergellus%20albellus%20%28362b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q200646",
+    "depictedLabel": "Smew",
+    "depictedLabelNL": "Nonnetje",
+    "taxonName": "Mergellus albellus",
+    "gbif": "2498285"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergellus%20albellus%20%28flipped%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q200646",
+    "depictedLabel": "Smew",
+    "depictedLabelNL": "Nonnetje",
+    "taxonName": "Mergellus albellus",
+    "gbif": "2498285"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergellus%20albellus%20%28ivb%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q200646",
+    "depictedLabel": "Smew",
+    "depictedLabelNL": "Nonnetje",
+    "taxonName": "Mergellus albellus",
+    "gbif": "2498285"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergus%20merganser%20%28324b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q180991",
+    "depictedLabel": "common merganser",
+    "depictedLabelNL": "Grote zaagbek",
+    "taxonName": "Mergus merganser",
+    "gbif": "9537647"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergus%20serrator%20%28241pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q189609",
+    "depictedLabel": "Red-breasted Merganser",
+    "depictedLabelNL": "Middelste zaagbek",
+    "taxonName": "Mergus serrator",
+    "gbif": "2498375"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Mergus%20serrator%20%28voor243%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q189609",
+    "depictedLabel": "Red-breasted Merganser",
+    "depictedLabelNL": "Middelste zaagbek",
+    "taxonName": "Mergus serrator",
+    "gbif": "2498375"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Morus%20bassanus%20%28400b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26675",
+    "depictedLabel": "Northern Gannet",
+    "depictedLabelNL": "Jan-van-gent",
+    "taxonName": "Morus bassanus",
+    "gbif": "2480964"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Motacilla%20alba%20%28118b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25399",
+    "depictedLabel": "White Wagtail",
+    "depictedLabelNL": "Witte kwikstaart",
+    "taxonName": "Motacilla alba",
+    "gbif": "9687165"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Motacilla%20cinerea%20%28432b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q201316",
+    "depictedLabel": "Grey Wagtail",
+    "depictedLabelNL": "Grote gele kwikstaart",
+    "taxonName": "Motacilla cinerea",
+    "gbif": "2490310"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Motacilla%20flava%20%28102b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25984",
+    "depictedLabel": "Western Yellow Wagtail",
+    "depictedLabelNL": "gele kwikstaart",
+    "taxonName": "Motacilla flava",
+    "gbif": "9701857"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Nucifraga%20caryocatactes%20%28006a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q124969",
+    "depictedLabel": "Corylus avellana",
+    "depictedLabelNL": "hazelaar",
+    "taxonName": "Corylus avellana",
+    "gbif": "2875979"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Nucifraga%20caryocatactes%20%28006a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q184820",
+    "depictedLabel": "Spotted Nutcracker",
+    "depictedLabelNL": "notenkraker",
+    "taxonName": "Nucifraga caryocatactes",
+    "gbif": "2482613"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Numenius%20arquata%20%28108b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18854",
+    "depictedLabel": "Eurasian Curlew",
+    "depictedLabelNL": "wulp",
+    "taxonName": "Numenius arquata",
+    "gbif": "2481792"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Numenius%20phaeopus%20%28304b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18858",
+    "depictedLabel": "Eurasian Whimbrel",
+    "depictedLabelNL": "regenwulp",
+    "taxonName": "Numenius phaeopus",
+    "gbif": "2481784"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Numida%20meleagris%20%28454b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q251842",
+    "depictedLabel": "Helmeted Guineafowl",
+    "depictedLabelNL": "helmparelhoen",
+    "taxonName": "Numida meleagris",
+    "gbif": "2473341"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Nycticorax%20nycticorax%20%28150b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q126216",
+    "depictedLabel": "Black-crowned Night Heron",
+    "depictedLabelNL": "kwak",
+    "taxonName": "Nycticorax nycticorax",
+    "gbif": "2480863"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Nycticorax%20nycticorax%20%28152a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q126216",
+    "depictedLabel": "Black-crowned Night Heron",
+    "depictedLabelNL": "kwak",
+    "taxonName": "Nycticorax nycticorax",
+    "gbif": "2480863"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Nycticorax%20nycticorax%20%28152a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q146149",
+    "depictedLabel": "Fagus sylvatica",
+    "depictedLabelNL": "beuk",
+    "taxonName": "Fagus sylvatica",
+    "gbif": "2882316"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Oenanthe%20oenanthe%20%28162b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26420",
+    "depictedLabel": "Northern Wheatear",
+    "depictedLabelNL": "Tapuit",
+    "taxonName": "Oenanthe oenanthe",
+    "gbif": "5231240"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Oenanthe%20oenanthe%20%28273pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25961",
+    "depictedLabel": "Eurasian Skylark",
+    "depictedLabelNL": "veldleeuwerik",
+    "taxonName": "Alauda arvensis",
+    "gbif": "8077224"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Oenanthe%20oenanthe%20%28273pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26420",
+    "depictedLabel": "Northern Wheatear",
+    "depictedLabelNL": "Tapuit",
+    "taxonName": "Oenanthe oenanthe",
+    "gbif": "5231240"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Oriolus%20oriolus%20%28018b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25388",
+    "depictedLabel": "Eurasian Golden Oriole",
+    "depictedLabelNL": "wielewaal",
+    "taxonName": "Oriolus oriolus",
+    "gbif": "2488949"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Otis%20tarda%20%28460b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q171655",
+    "depictedLabel": "Great Bustard",
+    "depictedLabelNL": "grote trap",
+    "taxonName": "Otis tarda",
+    "gbif": "2474921"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Otus%20scops%20%28378b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q171563",
+    "depictedLabel": "Eurasian Scops Owl",
+    "depictedLabelNL": "Dwergooruil",
+    "taxonName": "Otus scops",
+    "gbif": "2497701"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Panurus%20biarmicus%20%28084b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q192817",
+    "depictedLabel": "Bearded Reeding",
+    "depictedLabelNL": "Baardman",
+    "taxonName": "Panurus biarmicus",
+    "gbif": "2493367"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Parus%20major%20%28112b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25485",
+    "depictedLabel": "Great Tit",
+    "depictedLabelNL": "koolmees",
+    "taxonName": "Parus major",
+    "gbif": "9705453"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Passer%20domesticus%20%28076d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q14683",
+    "depictedLabel": "House Sparrow",
+    "depictedLabelNL": "Huismus",
+    "taxonName": "Passer domesticus",
+    "gbif": "5231190"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Passer%20montanus%20%28078b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25968",
+    "depictedLabel": "Eurasian Tree Sparrow",
+    "depictedLabelNL": "Ringmus",
+    "taxonName": "Passer montanus",
+    "gbif": "5231198"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pavo%20cristatus%20%28480b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q61865",
+    "depictedLabel": "Indian peafowl",
+    "depictedLabelNL": "Blauwe pauw",
+    "taxonName": "Pavo cristatus",
+    "gbif": "9451184"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pavo%20cristatus%20%28482b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q61865",
+    "depictedLabel": "Indian peafowl",
+    "depictedLabelNL": "Blauwe pauw",
+    "taxonName": "Pavo cristatus",
+    "gbif": "9451184"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Perdix%20perdix%20%28184a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26106",
+    "depictedLabel": "Grey Partridge",
+    "depictedLabelNL": "patrijs",
+    "taxonName": "Perdix perdix",
+    "gbif": "2473958"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Perdix%20perdix%20%28186a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26106",
+    "depictedLabel": "Grey Partridge",
+    "depictedLabelNL": "patrijs",
+    "taxonName": "Perdix perdix",
+    "gbif": "2473958"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phalacrocorax%20aristotelis%20%28462b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25440",
+    "depictedLabel": "Great Cormorant",
+    "depictedLabelNL": "aalscholver",
+    "taxonName": "Phalacrocorax carbo",
+    "gbif": "2481890"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phalacrocorax%20aristotelis%20%28462b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q115452",
+    "depictedLabel": "European Shag",
+    "depictedLabelNL": "Kuifaalscholver",
+    "taxonName": "Gulosus aristotelis",
+    "gbif": "2481861"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phalacrocorax%20carbo%20%28088b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25440",
+    "depictedLabel": "Great Cormorant",
+    "depictedLabelNL": "aalscholver",
+    "taxonName": "Phalacrocorax carbo",
+    "gbif": "2481890"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phalacrocorax%20carbo%20%28092a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25440",
+    "depictedLabel": "Great Cormorant",
+    "depictedLabelNL": "aalscholver",
+    "taxonName": "Phalacrocorax carbo",
+    "gbif": "2481890"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phalaropus%20fulicarius%20%28486b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q208335",
+    "depictedLabel": "Red Phalarope",
+    "depictedLabelNL": "rosse franjepoot",
+    "taxonName": "Phalaropus fulicarius",
+    "gbif": "5229390"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phasianus%20colchicus%20%28158b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25432",
+    "depictedLabel": "Common Pheasant",
+    "depictedLabelNL": "fazant",
+    "taxonName": "Phasianus colchicus",
+    "gbif": "9752149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phasianus%20colchicus%20%28160b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25432",
+    "depictedLabel": "Common Pheasant",
+    "depictedLabelNL": "fazant",
+    "taxonName": "Phasianus colchicus",
+    "gbif": "9752149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Philomachus%20pugnax%20%28028b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26411",
+    "depictedLabel": "Philomachus pugnax",
+    "depictedLabelNL": "Kemphaan",
+    "taxonName": "Philomachus pugnax",
+    "gbif": "5229387"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Philomachus%20pugnax%20%28028b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28122714",
+    "depictedLabel": "Ruff",
+    "depictedLabelNL": "Calidris pugnax",
+    "taxonName": "Calidris pugnax",
+    "gbif": "8250742"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phoenicurus%20phoenicurus%20%28082b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26620",
+    "depictedLabel": "Common Redstart",
+    "depictedLabelNL": "gekraagde roodstaart",
+    "taxonName": "Phoenicurus phoenicurus",
+    "gbif": "5739317"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phoenicurus%20phoenicurus%20%28082b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q155869",
+    "depictedLabel": "Whinchat",
+    "depictedLabelNL": "Paapje",
+    "taxonName": "Saxicola rubetra",
+    "gbif": "2492521"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Phoenicurus%20phoenicurus%20%28360b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26620",
+    "depictedLabel": "Common Redstart",
+    "depictedLabelNL": "gekraagde roodstaart",
+    "taxonName": "Phoenicurus phoenicurus",
+    "gbif": "5739317"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pica%20pica%20%28002a%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25307",
+    "depictedLabel": "Eurasian Magpie",
+    "depictedLabelNL": "ekster",
+    "taxonName": "Pica pica",
+    "gbif": "5229490"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Picus%20canus%20%28388b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q201106",
+    "depictedLabel": "Grey-headed Woodpecker",
+    "depictedLabelNL": "grijskopspecht",
+    "taxonName": "Picus canus",
+    "gbif": "2478548"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Picus%20viridis%20%28042b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q166171",
+    "depictedLabel": "European Green Woodpecker",
+    "depictedLabelNL": "groene specht",
+    "taxonName": "Picus viridis",
+    "gbif": "2478523"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Picus%20viridis%20%28372b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q166171",
+    "depictedLabel": "European Green Woodpecker",
+    "depictedLabelNL": "groene specht",
+    "taxonName": "Picus viridis",
+    "gbif": "2478523"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Picus%20viridis%20%28372b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q583898",
+    "depictedLabel": "White Woodpecker",
+    "depictedLabelNL": "Witte specht",
+    "taxonName": "Melanerpes candidus",
+    "gbif": "2478144"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Platalea%20leucorodia%20%28170b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q171360",
+    "depictedLabel": "Eurasian Spoonbill",
+    "depictedLabelNL": "lepelaar",
+    "taxonName": "Platalea leucorodia",
+    "gbif": "2480801"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Platalea%20leucorodia%20%28172b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q171360",
+    "depictedLabel": "Eurasian Spoonbill",
+    "depictedLabelNL": "lepelaar",
+    "taxonName": "Platalea leucorodia",
+    "gbif": "2480801"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Plectrophenax%20nivalis%20%28300b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26416",
+    "depictedLabel": "Snow Bunting",
+    "depictedLabelNL": "Sneeuwgors",
+    "taxonName": "Plectrophenax nivalis",
+    "gbif": "2491719"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pluvialis%20apricaria%20%28249pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q21148",
+    "depictedLabel": "European Golden Plover",
+    "depictedLabelNL": "goudplevier",
+    "taxonName": "Pluvialis apricaria",
+    "gbif": "2480332"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pluvialis%20apricaria%20%28voor251%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q21148",
+    "depictedLabel": "European Golden Plover",
+    "depictedLabelNL": "goudplevier",
+    "taxonName": "Pluvialis apricaria",
+    "gbif": "2480332"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pluvialis%20squatarola%20%28478b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18835",
+    "depictedLabel": "Grey Plover",
+    "depictedLabelNL": "zilverplevier",
+    "taxonName": "Pluvialis squatarola",
+    "gbif": "2480327"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Podiceps%20cristatus%20%28168b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25422",
+    "depictedLabel": "Great Crested Grebe",
+    "depictedLabelNL": "fuut",
+    "taxonName": "Podiceps cristatus",
+    "gbif": "2482054"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Podiceps%20grisegena%20%28434b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q179919",
+    "depictedLabel": "Red-necked Grebe",
+    "depictedLabelNL": "roodhalsfuut",
+    "taxonName": "Podiceps grisegena",
+    "gbif": "2482051"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Podiceps%20nigricollis%20%28488b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q185183",
+    "depictedLabel": "Black-necked Grebe",
+    "depictedLabelNL": "geoorde fuut",
+    "taxonName": "Podiceps nigricollis",
+    "gbif": "2482065"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Poecile%20montanus%20%28046b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28557",
+    "depictedLabel": "Phragmites australis",
+    "depictedLabelNL": "riet",
+    "taxonName": "Phragmites australis",
+    "gbif": "5290149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Poecile%20montanus%20%28046b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q215211",
+    "depictedLabel": "Willow Tit",
+    "depictedLabelNL": "Matkop",
+    "taxonName": "Poecile montanus",
+    "gbif": "2487866"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Porzana%20porzana%20%28261pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q185099",
+    "depictedLabel": "Water Rail",
+    "depictedLabelNL": "waterral",
+    "taxonName": "Rallus aquaticus",
+    "gbif": "2474831"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Porzana%20porzana%20%28261pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q194024",
+    "depictedLabel": "Spotted Crake",
+    "depictedLabelNL": "Porseleinhoen",
+    "taxonName": "Porzana porzana",
+    "gbif": "2474621"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Porzana%20porzana%20%28354b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q194024",
+    "depictedLabel": "Spotted Crake",
+    "depictedLabelNL": "Porseleinhoen",
+    "taxonName": "Porzana porzana",
+    "gbif": "2474621"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Porzana%20porzana%20%28354b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q270680",
+    "depictedLabel": "Little Crake",
+    "depictedLabelNL": "Klein waterhoen",
+    "taxonName": "Porzana parva",
+    "gbif": "2474627"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Porzana%20porzana%20%28voor263%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q185099",
+    "depictedLabel": "Water Rail",
+    "depictedLabelNL": "waterral",
+    "taxonName": "Rallus aquaticus",
+    "gbif": "2474831"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Porzana%20porzana%20%28voor263%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q194024",
+    "depictedLabel": "Spotted Crake",
+    "depictedLabelNL": "Porseleinhoen",
+    "taxonName": "Porzana porzana",
+    "gbif": "2474621"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Prunella%20collaris%20%28396b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q208334",
+    "depictedLabel": "Alpine Accentor",
+    "depictedLabelNL": "Alpenheggenmus",
+    "taxonName": "Prunella collaris",
+    "gbif": "5231770"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Prunella%20modularis%20%28402b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26698",
+    "depictedLabel": "Dunnock",
+    "depictedLabelNL": "Heggenmus",
+    "taxonName": "Prunella modularis",
+    "gbif": "5231763"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Puffinus%20puffinus%20%28368b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q208405",
+    "depictedLabel": "Manx Shearwater",
+    "depictedLabelNL": "Noordse pijlstormvogel",
+    "taxonName": "Puffinus puffinus",
+    "gbif": "5229380"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pyrrhula%20pyrrhula%20%28132b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Pyrrhula%20pyrrhula%20%28132b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25382",
+    "depictedLabel": "Eurasian Bullfinch",
+    "depictedLabelNL": "goudvink",
+    "taxonName": "Pyrrhula pyrrhula",
+    "gbif": "2494543"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Recurvirostra%20avosetta%20%28066b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26147",
+    "depictedLabel": "Pied Avocet",
+    "depictedLabelNL": "Kluut",
+    "taxonName": "Recurvirostra avosetta",
+    "gbif": "2480259"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Regulus%20regulus%20%28293pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26657",
+    "depictedLabel": "Goldcrest",
+    "depictedLabelNL": "Goudhaan",
+    "taxonName": "Regulus regulus",
+    "gbif": "2484596"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Riparia%20riparia%20%28034b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25909",
+    "depictedLabel": "Riparia riparia",
+    "depictedLabelNL": "Oeverzwaluw",
+    "taxonName": "Riparia riparia",
+    "gbif": "2489160"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Rynchops%20niger%20%28398b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q516662",
+    "depictedLabel": "Black Skimmer",
+    "depictedLabelNL": "Amerikaanse schaarbek",
+    "taxonName": "Rynchops niger",
+    "gbif": "2481209"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Scolopax%20rusticola%20%28287pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26114",
+    "depictedLabel": "Eurasian Woodcock",
+    "depictedLabelNL": "Houtsnip",
+    "taxonName": "Scolopax rusticola",
+    "gbif": "2481700"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Scolopax%20rusticola%20%28287pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q642855",
+    "depictedLabel": "Woodcock",
+    "depictedLabelNL": "Scolopax",
+    "taxonName": "Scolopax",
+    "gbif": "2481693"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Serinus%20canaria%20%28476b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q192524",
+    "depictedLabel": "Atlantic Canary",
+    "depictedLabelNL": "kanarie",
+    "taxonName": "Serinus canaria",
+    "gbif": "2494303"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sitta%20europaea%20%28430b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q156767",
+    "depictedLabel": "Eurasian Nuthatch",
+    "depictedLabelNL": "boomklever",
+    "taxonName": "Sitta europaea",
+    "gbif": "2484916"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Spinus%20spinus%20%28134b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Spinus%20spinus%20%28134b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q168881",
+    "depictedLabel": "Carduelis spinus",
+    "depictedLabelNL": "Carduelis spinus",
+    "taxonName": "Carduelis spinus",
+    "gbif": "2494701"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Spinus%20spinus%20%28134b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075864",
+    "depictedLabel": "Eurasian Siskin",
+    "depictedLabelNL": "Sijs",
+    "taxonName": "Spinus spinus",
+    "gbif": "6092830"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Stercorarius%20skua%20%28448b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q207760",
+    "depictedLabel": "Great Skua",
+    "depictedLabelNL": "grote jager",
+    "taxonName": "Stercorarius skua",
+    "gbif": "2481618"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sterna%20hirundo%20%28104b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18875",
+    "depictedLabel": "Common Tern",
+    "depictedLabelNL": "visdief",
+    "taxonName": "Sterna hirundo",
+    "gbif": "9367409"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sterna%20hirundo%20%28106b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18875",
+    "depictedLabel": "Common Tern",
+    "depictedLabelNL": "visdief",
+    "taxonName": "Sterna hirundo",
+    "gbif": "9367409"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Streptopelia%20roseogrisea%20%28422b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q54696",
+    "depictedLabel": "Eurasian Collared Dove",
+    "depictedLabelNL": "Turkse tortel",
+    "taxonName": "Streptopelia decaocto",
+    "gbif": "2495696"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Streptopelia%20turtur%20%28010d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Streptopelia%20turtur%20%28010d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q168514",
+    "depictedLabel": "European Turtle Dove",
+    "depictedLabelNL": "Zomertortel",
+    "taxonName": "Streptopelia turtur",
+    "gbif": "2495708"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sturnus%20vulgaris%20%28376b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25469",
+    "depictedLabel": "Common Starling",
+    "depictedLabelNL": "spreeuw",
+    "taxonName": "Sturnus vulgaris",
+    "gbif": "9809229"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20atricapilla%20%28424b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q188446",
+    "depictedLabel": "Eurasian Blackcap",
+    "depictedLabelNL": "zwartkop",
+    "taxonName": "Sylvia atricapilla",
+    "gbif": "2492956"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20borin%20%28138b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q202478",
+    "depictedLabel": "Garden Warbler",
+    "depictedLabelNL": "tuinfluiter",
+    "taxonName": "Sylvia borin",
+    "gbif": "2492942"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20borin%20%28138b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q206089",
+    "depictedLabel": "Lesser Whitethroat",
+    "depictedLabelNL": "braamsluiper",
+    "taxonName": "Sylvia curruca",
+    "gbif": "2492960"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20borin%20%28138b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q206089",
+    "depictedLabel": "Lesser Whitethroat",
+    "depictedLabelNL": "braamsluiper",
+    "taxonName": "Curruca curruca",
+    "gbif": "2492960"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20communis%20%28096b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28557",
+    "depictedLabel": "Phragmites australis",
+    "depictedLabelNL": "riet",
+    "taxonName": "Phragmites australis",
+    "gbif": "5290149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20communis%20%28096b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26974",
+    "depictedLabel": "Common Whitethroat",
+    "depictedLabelNL": "grasmus",
+    "taxonName": "Sylvia communis",
+    "gbif": "2492943"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Sylvia%20communis%20%28096b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26974",
+    "depictedLabel": "Common Whitethroat",
+    "depictedLabelNL": "grasmus",
+    "taxonName": "Curruca communis",
+    "gbif": "2492943"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tachybaptus%20ruficollis%20%28231pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25421",
+    "depictedLabel": "Little Grebe",
+    "depictedLabelNL": "dodaars",
+    "taxonName": "Tachybaptus ruficollis",
+    "gbif": "2482048"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tachybaptus%20ruficollis%20%28231pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28557",
+    "depictedLabel": "Phragmites australis",
+    "depictedLabelNL": "riet",
+    "taxonName": "Phragmites australis",
+    "gbif": "5290149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tadorna%20tadorna%20%28190b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25761",
+    "depictedLabel": "Common Shelduck",
+    "depictedLabelNL": "bergeend",
+    "taxonName": "Tadorna tadorna",
+    "gbif": "2498009"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tadorna%20tadorna%20%28192b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25761",
+    "depictedLabel": "Common Shelduck",
+    "depictedLabelNL": "bergeend",
+    "taxonName": "Tadorna tadorna",
+    "gbif": "2498009"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Thalasseus%20sandvicensis%20%28428b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27547",
+    "depictedLabel": "Sandwich Tern",
+    "depictedLabelNL": "grote stern",
+    "taxonName": "Thalasseus sandvicensis",
+    "gbif": "2481240"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tringa%20erythropus%20%28257pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28103",
+    "depictedLabel": "Spotted Redshank",
+    "depictedLabelNL": "Zwarte ruiter",
+    "taxonName": "Tringa erythropus",
+    "gbif": "2481725"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tringa%20erythropus%20%28267pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28103",
+    "depictedLabel": "Spotted Redshank",
+    "depictedLabelNL": "Zwarte ruiter",
+    "taxonName": "Tringa erythropus",
+    "gbif": "2481725"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tringa%20nebularia%20%28318b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18840",
+    "depictedLabel": "Common Greenshank",
+    "depictedLabelNL": "groenpootruiter",
+    "taxonName": "Tringa nebularia",
+    "gbif": "2481726"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tringa%20totanus%20%28259pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18859",
+    "depictedLabel": "Common Redshank",
+    "depictedLabelNL": "tureluur",
+    "taxonName": "Tringa totanus",
+    "gbif": "2481714"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Troglodytes%20troglodytes%20%28110b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25740",
+    "depictedLabel": "Eurasian Wren",
+    "depictedLabelNL": "Winterkoning",
+    "taxonName": "Troglodytes troglodytes",
+    "gbif": "5231438"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20iliacus%20%28020b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q184825",
+    "depictedLabel": "Redwing",
+    "depictedLabelNL": "Koperwiek",
+    "taxonName": "Turdus iliacus",
+    "gbif": "2490781"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20merula%20%28016f%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25234",
+    "depictedLabel": "Common Blackbird",
+    "depictedLabelNL": "merel",
+    "taxonName": "Turdus merula",
+    "gbif": "2490719"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20philomelos%20%28022b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26349",
+    "depictedLabel": "Song Thrush",
+    "depictedLabelNL": "Zanglijster",
+    "taxonName": "Turdus philomelos",
+    "gbif": "2490748"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20philomelos%20%28382b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26349",
+    "depictedLabel": "Song Thrush",
+    "depictedLabelNL": "Zanglijster",
+    "taxonName": "Turdus philomelos",
+    "gbif": "2490748"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20philomelos%20%28382b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q157964",
+    "depictedLabel": "Sorbus",
+    "depictedLabelNL": "lijsterbes",
+    "taxonName": "Sorbus",
+    "gbif": "3012146"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20pilaris%20%28235pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25777",
+    "depictedLabel": "Fieldfare",
+    "depictedLabelNL": "Kramsvogel",
+    "taxonName": "Turdus pilaris",
+    "gbif": "2490737"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Turdus%20torquatus%20%28239pl%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26641",
+    "depictedLabel": "Ring Ouzel",
+    "depictedLabelNL": "Beflijster",
+    "taxonName": "Turdus torquatus",
+    "gbif": "7865305"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tyto%20alba%20alba%20%28374b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25317",
+    "depictedLabel": "Western Barn Owl",
+    "depictedLabelNL": "kerkuil",
+    "taxonName": "Tyto alba",
+    "gbif": "2497921"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Tyto%20alba%20guttata%20%28298b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25317",
+    "depictedLabel": "Western Barn Owl",
+    "depictedLabelNL": "kerkuil",
+    "taxonName": "Tyto alba",
+    "gbif": "2497921"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Upupa%20epops%20%28128b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25247",
+    "depictedLabel": "Eurasian Hoopoe",
+    "depictedLabelNL": "hop",
+    "taxonName": "Upupa epops",
+    "gbif": "2498415"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Vanellus%20vanellus%20%28064d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25392",
+    "depictedLabel": "Northern Lapwing",
+    "depictedLabelNL": "kievit",
+    "taxonName": "Vanellus vanellus",
+    "gbif": "2480242"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Vanellus%20vanellus%20%28064d%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q101538",
+    "depictedLabel": "Trati niga",
+    "depictedLabelNL": "klaver",
+    "taxonName": "Trifolium",
+    "gbif": "2973363"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandsche%20vogelen%20%28KB%29%20-%20Vanellus%20vanellus%20%28370b%29.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25392",
+    "depictedLabel": "Northern Lapwing",
+    "depictedLabelNL": "kievit",
+    "taxonName": "Vanellus vanellus",
+    "gbif": "2480242"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol1.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26974",
+    "depictedLabel": "Common Whitethroat",
+    "depictedLabelNL": "grasmus",
+    "taxonName": "Sylvia communis",
+    "gbif": "2492943"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol1.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26974",
+    "depictedLabel": "Common Whitethroat",
+    "depictedLabelNL": "grasmus",
+    "taxonName": "Curruca communis",
+    "gbif": "2492943"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol1.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q28557",
+    "depictedLabel": "Phragmites australis",
+    "depictedLabelNL": "riet",
+    "taxonName": "Phragmites australis",
+    "gbif": "5290149"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol1.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q192817",
+    "depictedLabel": "Bearded Reeding",
+    "depictedLabelNL": "Baardman",
+    "taxonName": "Panurus biarmicus",
+    "gbif": "2493367"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol1.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25404",
+    "depictedLabel": "Eurasian Blue Tit",
+    "depictedLabelNL": "pimpelmees",
+    "taxonName": "Cyanistes caeruleus",
+    "gbif": "2487879"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol1.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25740",
+    "depictedLabel": "Eurasian Wren",
+    "depictedLabelNL": "Winterkoning",
+    "taxonName": "Troglodytes troglodytes",
+    "gbif": "5231438"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol2.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26974",
+    "depictedLabel": "Common Whitethroat",
+    "depictedLabelNL": "grasmus",
+    "taxonName": "Sylvia communis",
+    "gbif": "2492943"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol2.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26974",
+    "depictedLabel": "Common Whitethroat",
+    "depictedLabelNL": "grasmus",
+    "taxonName": "Curruca communis",
+    "gbif": "2492943"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol2.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q125895",
+    "depictedLabel": "Short-toed Treecreeper",
+    "depictedLabelNL": "boomkruiper",
+    "taxonName": "Certhia brachydactyla",
+    "gbif": "7806848"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol2.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q192817",
+    "depictedLabel": "Bearded Reeding",
+    "depictedLabelNL": "Baardman",
+    "taxonName": "Panurus biarmicus",
+    "gbif": "2493367"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol2.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25404",
+    "depictedLabel": "Eurasian Blue Tit",
+    "depictedLabelNL": "pimpelmees",
+    "taxonName": "Cyanistes caeruleus",
+    "gbif": "2487879"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol2.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25740",
+    "depictedLabel": "Eurasian Wren",
+    "depictedLabelNL": "Winterkoning",
+    "taxonName": "Troglodytes troglodytes",
+    "gbif": "5231438"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol3.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q36050",
+    "depictedLabel": "Salix",
+    "depictedLabelNL": "wilg",
+    "taxonName": "Salix",
+    "gbif": "3039576"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol3.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075852",
+    "depictedLabel": "Common Linnet",
+    "depictedLabelNL": "Kneu",
+    "taxonName": "Linaria cannabina",
+    "gbif": "8104397"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol3.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075864",
+    "depictedLabel": "Eurasian Siskin",
+    "depictedLabelNL": "Sijs",
+    "taxonName": "Spinus spinus",
+    "gbif": "6092830"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol3.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25247",
+    "depictedLabel": "Eurasian Hoopoe",
+    "depictedLabelNL": "hop",
+    "taxonName": "Upupa epops",
+    "gbif": "2498415"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol3.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25382",
+    "depictedLabel": "Eurasian Bullfinch",
+    "depictedLabelNL": "goudvink",
+    "taxonName": "Pyrrhula pyrrhula",
+    "gbif": "2494543"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol3.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26106",
+    "depictedLabel": "Grey Partridge",
+    "depictedLabelNL": "patrijs",
+    "taxonName": "Perdix perdix",
+    "gbif": "2473958"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol4.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q36050",
+    "depictedLabel": "Salix",
+    "depictedLabelNL": "wilg",
+    "taxonName": "Salix",
+    "gbif": "3039576"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol4.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q206648",
+    "depictedLabel": "Carduelis flavirostris",
+    "depictedLabelNL": "Carduelis flavirostris",
+    "taxonName": "Carduelis flavirostris",
+    "gbif": "2494752"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol4.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q27075864",
+    "depictedLabel": "Eurasian Siskin",
+    "depictedLabelNL": "Sijs",
+    "taxonName": "Spinus spinus",
+    "gbif": "6092830"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol4.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25247",
+    "depictedLabel": "Eurasian Hoopoe",
+    "depictedLabelNL": "hop",
+    "taxonName": "Upupa epops",
+    "gbif": "2498415"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol4.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25382",
+    "depictedLabel": "Eurasian Bullfinch",
+    "depictedLabelNL": "goudvink",
+    "taxonName": "Pyrrhula pyrrhula",
+    "gbif": "2494543"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol4.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26106",
+    "depictedLabel": "Grey Partridge",
+    "depictedLabelNL": "patrijs",
+    "taxonName": "Perdix perdix",
+    "gbif": "2473958"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol5.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q161566",
+    "depictedLabel": "Symphytum",
+    "depictedLabelNL": "Symphytum",
+    "taxonName": "Symphytum",
+    "gbif": "2926061"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol5.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q12004",
+    "depictedLabel": "Quercus",
+    "depictedLabelNL": "eik",
+    "taxonName": "Quercus",
+    "gbif": "2877951"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol5.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25418",
+    "depictedLabel": "European Goldfinch",
+    "depictedLabelNL": "putter",
+    "taxonName": "Carduelis carduelis",
+    "gbif": "2494686"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol5.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q25421",
+    "depictedLabel": "Little Grebe",
+    "depictedLabelNL": "dodaars",
+    "taxonName": "Tachybaptus ruficollis",
+    "gbif": "2482048"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol5.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26578",
+    "depictedLabel": "Bluethroat",
+    "depictedLabelNL": "Blauwborst",
+    "taxonName": "Luscinia svecica",
+    "gbif": "4408732"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NederlandscheVogelenCoverVol5.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q26657",
+    "depictedLabel": "Goldcrest",
+    "depictedLabelNL": "Goudhaan",
+    "taxonName": "Regulus regulus",
+    "gbif": "2484596"
+  },
+  {
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rusticola%20uit%20Nederlandsche%20Vogelen%201770.jpg",
+    "depicted": "http://www.wikidata.org/entity/Q18841",
+    "depictedLabel": "Black-tailed Godwit",
+    "depictedLabelNL": "grutto",
+    "taxonName": "Limosa limosa",
+    "gbif": "2481685"
+  }
+]

@@ -1,0 +1,1 @@
+Dit is de map waarin sparql-results worden gecached. De bestanden zelf worden (zie .gitignore) niet opgenomen in de repository.
