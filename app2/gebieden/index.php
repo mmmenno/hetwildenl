@@ -121,6 +121,18 @@ $data = json_decode($json,true);
 
 include("../soorten/dijkshoorn.php");
 include("../soorten/uva.php");
+$taxon = 'Q25403';
+function uvaHasHeritage($taxonId) {
+    $gebieden_data = "../../data/QTaxonLabels.csv";
+    if (($handle = fopen($gebieden_data, "r")) !== FALSE) {
+        while (($row = fgetcsv($handle, 1000, ",")) !== FALSE) {
+            if (strstr($row[0], $taxonId)){
+                return true;
+            }
+        }
+        fclose($handle);
+    }
+}
 
 foreach ($occurrences as $ockey => $ocvalue) {
     foreach ($data['results']['bindings'] as $wdkey => $wdvalue) {
@@ -129,8 +141,8 @@ foreach ($occurrences as $ockey => $ocvalue) {
             $occurrences[$ockey]['wikidata'] = $taxonId;
             $occurrences[$ockey]['label'] = $wdvalue['itemLabel']['value'];
             $occurrences[$ockey]['has_heritage'] = 
-              !empty(dijkshoornImages($taxonId));
-              #!empty(dijkshoornImages($taxonId)) || !empty(uvaImages($taxonId));
+              #!empty(dijkshoornImages($taxonId));
+              !empty(dijkshoornImages($taxonId)) || !empty(uvaHasHeritage($taxonId));
         }
     }
 }
@@ -167,7 +179,6 @@ $gebied_json = file_get_contents($gebieds_json_url);
     <title>HetWildeNL - Collectie flora en fauna</title>
     <link href="/style.css" rel="stylesheet">
 
-
   <script
     src="https://code.jquery.com/jquery-3.2.1.min.js"
     integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
@@ -185,16 +196,29 @@ $gebied_json = file_get_contents($gebieds_json_url);
     <script src="https://unpkg.com/proj4leaflet@1.0.1"></script>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--    <link rel="stylesheet" href="../../assets/styles.css" />-->
 
-    <link rel="stylesheet" href="../assets/css/styles.css" />
-
-  </script>
-
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: url('../../assets/bg.png');
+            background-position: center; /* Center the image */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-size: cover; /* Resize the background image to cover the entire container */
+        }
+        h2{
+            color: #ba4fbe;
+            font-weight: bold;
+            font-size: 44px;
+            margin-top: 32px;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
 <h2>Natuurgebied <?= $gebieds_naam ?></h2>
 
-<div id="map" style="height: 100%; margin-bottom: 24px; width: 100%; position:fixed;"></div>
+<div id="map" style="height: 100%; margin-bottom:0px; width: 100%; position:fixed;"></div>
 <script>
     let map = L.map("map", {center: [31.262218, 34.801472], zoom: 17});
     L.tileLayer(
