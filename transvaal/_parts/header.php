@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Bioblitz Transvaal</title>
+	<title>Bioboost Transvaal</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,21 +18,22 @@
   
   	<script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js" integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA==" crossorigin=""></script>
 
-	<link rel="stylesheet" href="/_assets/css/styles.css" />
+	<link rel="stylesheet" href="_assets/css/styles.css" />
 
 	
-	<script defer data-domain="aanhetjuisteadres.nl" src="https://plausible.io/js/script.js"></script>
+	<script defer data-domain="hetwilde.nl" src="https://plausible.io/js/script.js"></script>
 	
 </head>
 
 <div class="container-fluid" id="topbar">
 	<div class="row">
 		<div class="col-md-6">
-			<strong>Bioblitz Transvaalwijk</strong>
+			<a href="index.php">Bioboost Transvaal</a>
 		</div>
 		<div class="col-md-6" id="navbar">
-			<a href="/agenda.php">Agenda</a> |
-			<a href="/meedoen.php">Meedoen?</a>
+			<a href="soorten.php">soorten</a> |
+			<a href="agenda.php">agenda</a> |
+			<a href="meedoen.php">meedoen?</a>
 		</div>
 	</div>
 </div>

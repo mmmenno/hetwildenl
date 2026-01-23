@@ -29,7 +29,7 @@ body{
 #main{
 	margin-top: 50px;
 	background-color: #fff;
-	padding-top: 0;
+	padding-top: 50px;
 	padding-bottom: 100px;
 }
 #contentbox{
@@ -38,7 +38,7 @@ body{
 	top: 50px;
 	z-index: 10000;
 	background-color: #333333;
-  	padding: 16px;
+  	padding: 24px;
 	margin-bottom: 0;
 	color: #fff;
 }

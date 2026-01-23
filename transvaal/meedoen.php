@@ -18,7 +18,7 @@ include("_parts/header.php");
 
 		<div class="col-md-12">
 			
-			<h1>Over Bioboost Transvaal</h1>
+			<h1>Meedoen?</h1>
 
 				
 
