@@ -9,8 +9,17 @@ include("_parts/header.php");
 
 
 <div id="map"></div>
-<div id="layerlinks">
-	
+
+
+<div class="container-fluid" id="searchresults">
+	<div class="row">
+		<div class="col-md-12">
+				<div id="searchinfo"></div>
+				<div id="info-waarneming"></div>
+			</div>
+		</div>
+	</div>
+
 </div>
 
 <div class="container-fluid" id="hometxt">
@@ -64,10 +73,6 @@ include("_parts/header.php");
 
 
 
-<div id="searchresults">
-	<div id="searchinfo"></div>
-	<div id="info-with-address"></div>
-</div>
 
 
 <script src="_assets/js/map.js"></script>

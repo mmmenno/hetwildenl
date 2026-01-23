@@ -57,7 +57,7 @@ function get_observations(){
 
                     var markertitle = feature.properties.label
                     if(feature.properties.thumb !== undefined){
-                        markertitle += "<img src=\"" + feature.properties.thumb + "\" />";
+                        markertitle += "<br /><img style=\"width:40px;\" src=\"" + feature.properties.thumb + "\" />";
                     }
 
                     return new L.CircleMarker(latlng, {
@@ -73,7 +73,8 @@ function get_observations(){
                 },
                 style: function(feature) {
                     return {
-                        radius: 5,
+                        radius: 10,
+                        fillColor: getColor(feature.properties),
                         clickable: true
                     };
                 },
@@ -90,7 +91,7 @@ function get_observations(){
             //map.fitBounds(lps.getBounds());
 
             var geojsonprops = jsonData['properties'];
-            console.log(geojsonprops);
+            //console.log(geojsonprops);
 
 
             
@@ -131,17 +132,44 @@ function whenClicked(){
         fillOpacity: 1
     });
 
-    $("#info-with-address").html('<em>gegevens bij adres ophalen...</em>');
+    $('#searchresults').show();
+
+    $("#info-waarneming").html('<em>gegevens waarneming ophalen...</em>');
 
     var props = $(this)[0].feature.properties;
-    
-    urlparams = getParams();
-    delete urlparams["bbox"];
-    console.log(encodeURIComponent(JSON.stringify(urlparams)));
+    //console.log(props);
+    props['mediumimg'] = props['thumb'].replace("square", "medium");
+
+    var infocontent = '';
+    if(props['thumb'] !== undefined){
+        infocontent += '<img src="' + props['mediumimg'] + '" />';
+    }
+    infocontent += '<strong>' + props['label'] + ' (' + props['cat'] + ')' + '</strong><br />';
+    infocontent += '<em>waargenomen op ' + props['datum'] + '</em><br />';
+    infocontent += '<a href="' + props['uri'] + '">bekijk waarneming op iNaturalist</a>';
+
+    $("#info-waarneming").html(infocontent);
 
     $('#searchinfo').hide();
 
-    $("#info-with-address").load('adres/index.php?adressen=' + JSON.stringify(props['adressen']) + '&params=' +  encodeURIComponent(JSON.stringify(urlparams)));
+    //$("#info-with-address").load('adres/index.php?adressen=' + JSON.stringify(props['adressen']) + '&params=' +  encodeURIComponent(JSON.stringify(urlparams)));
 
 
+}
+
+
+function getColor(props) {
+
+    
+    if(props['cat'] == null){
+        return '#838385';
+    }
+    if(props['cat'] == "Insecta"){
+        return '#885414';
+    }
+    if(props['cat'] == "Plantae"){
+        return '#008661';
+    }
+
+    return '#1DA1CB';
 }
