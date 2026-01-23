@@ -140,15 +140,18 @@ function whenClicked(){
     //console.log(props);
     props['mediumimg'] = props['thumb'].replace("square", "medium");
 
-    var infocontent = '';
+    var infoimg = '';
     if(props['thumb'] !== undefined){
-        infocontent += '<img src="' + props['mediumimg'] + '" />';
+        infoimg += '<img src="' + props['mediumimg'] + '" />';
     }
+
+    var infocontent = '';
     infocontent += '<strong>' + props['label'] + ' (' + props['cat'] + ')' + '</strong><br />';
     infocontent += '<em>waargenomen op ' + props['datum'] + '</em><br />';
     infocontent += '<a href="' + props['uri'] + '">bekijk waarneming op iNaturalist</a>';
 
     $("#info-waarneming").html(infocontent);
+    $("#info-img").html(infoimg);
 
     $('#searchinfo').hide();
 

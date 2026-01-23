@@ -13,10 +13,11 @@ include("_parts/header.php");
 
 <div class="container-fluid" id="searchresults">
 	<div class="row">
-		<div class="col-md-12">
-				<div id="searchinfo"></div>
-				<div id="info-waarneming"></div>
-			</div>
+		<div class="col-md-6">
+			<div id="info-waarneming"></div>
+		</div>
+		<div class="col-md-4">
+			<div id="info-img"></div>
 		</div>
 	</div>
 

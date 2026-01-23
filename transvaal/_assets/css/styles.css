@@ -30,11 +30,15 @@ body{
 	padding-bottom: 12px;
 	display: none;
 }
-#info-waarneming img{
-	width: 100px;
-	float: left;
-	margin-right: 24px;
+@media (min-width: 769px) {
+	#info-img img{
+		width: 100px;
+	}
+	#info-waarneming{
+		text-align: right;
+	}
 }
+
 #info-waarneming strong{
 	font-size: 24px;
 }
