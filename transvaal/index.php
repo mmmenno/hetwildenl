@@ -34,7 +34,7 @@ include("_parts/header.php");
 			
 			<p>De Haarlemse Transvaalwijk is bepaald geen groene wijk. De Generaalsbuurt staat zelfs in de top drie van meest versteende buurten van Nederland.</p>
 
-			<p>Toch blijkt: ook hier vinden planten tussen stoeptegels een huis, weten vlinders de bloemen tussen al het steen te vinden. De woestijn leeft!</p>
+			<p>Toch blijkt: ook hier vinden planten tussen stoeptegels een huis, weten vlinders de bloemen tussen al het steen te vinden. De woestijn leeft (als je goed kijkt).</p>
 
 		</div>
 
@@ -50,7 +50,7 @@ include("_parts/header.php");
 		<div class="col-md-3">
 
 
-			<h2>Big Year 2026</h2>
+			<h2>2026: Big Year</h2>
 			
 			<p>In 2026 proberen we een jaar lang zoveel mogelijk soorten in de wijk te ontdekken. Onze aan iNaturalist toegevoegde waarnemingen verschijnen binnen een paar dagen vanzelf op deze kaart.</p>
 

@@ -7,7 +7,7 @@ function getInaturalistResults($url){
 	$cache = true;
 	$urlhash = hash("md5",$url);
 	$datafile = __DIR__ . "/inaturalistdata/" . $urlhash . ".json";
-	$maxcachetime = 60*60*24*7;
+	$maxcachetime = 60*60*24*1;
 
 	// get cached data if recent
 	if($cache && file_exists($datafile)){

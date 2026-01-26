@@ -42,9 +42,13 @@ function createMap(){
 }
 
 function get_observations(){
+
+    var dt = new Date();
+    var dayOfMonth = dt.getDate();
+
     $.ajax({
         type: 'GET',
-        url: 'geojson/geojson-inaturalist.php',
+        url: 'geojson/geojson-inaturalist.php?d=' + dayOfMonth,
         dataType: 'json',
         data: '',
         success: function(jsonData) {
