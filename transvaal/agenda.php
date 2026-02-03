@@ -20,6 +20,7 @@ include("_parts/header.php");
 			
 			<h1>Agenda</h1>
 
+			<p class="lead">Binnenkort kun je hier de eerste activiteiten verwachten</p>
 				
 
 

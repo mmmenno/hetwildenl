@@ -172,11 +172,14 @@ function getColor(props) {
         return '#838385';
     }
     if(props['cat'] == "Insecta"){
-        return '#885414';
+        return '#ff8551';
     }
     if(props['cat'] == "Plantae"){
-        return '#008661';
+        return '#00ff69';
+    }
+    if(props['cat'] == "Aves"){
+        return '#ff68e9';
     }
 
-    return '#1DA1CB';
+    return '#43a0ff';
 }

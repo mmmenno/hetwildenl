@@ -20,7 +20,7 @@ include("_parts/header.php");
 			
 			<h1>Soorten</h1>
 
-			<p>Hier komt een overzicht van alle soorten die we in 2026 in Transvaalwijk hebben gespot</p>
+			<p class="lead">Hier komt een overzicht van alle soorten die we in 2026 in Transvaalwijk hebben gespot. Soon!</p>
 
 
 		</div>

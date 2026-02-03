@@ -115,6 +115,11 @@ img{
 	margin-bottom: 0px;
 	margin-top: 8px;
 }
+.col-md-4 img{
+	width: 40%;
+	float: right;
+	margin-left: 5px;
+}
 .input-group{
 	margin-top: 5px;
 	margin-bottom: 12px;
