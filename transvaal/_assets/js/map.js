@@ -92,7 +92,7 @@ function get_observations(){
 
             lps.addData(jsonData).bringToFront();
 
-            //map.fitBounds(lps.getBounds());
+            map.fitBounds(lps.getBounds());
 
             var geojsonprops = jsonData['properties'];
             //console.log(geojsonprops);
