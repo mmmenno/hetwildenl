@@ -93,6 +93,9 @@ a{
 	color: #ff5798;
 	text-decoration: none;
 }
+.lead{
+	margin-bottom: 32px;
+}
 a:hover{
 	text-decoration: underline;
 	color: #ac2336;
@@ -120,6 +123,15 @@ img{
 	float: right;
 	margin-left: 5px;
 }
+.soortcard {
+	border: 1px solid #000;
+	padding: 12px;
+	margin-bottom: 24px;
+}
+.soortcard h2{
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
 .input-group{
 	margin-top: 5px;
 	margin-bottom: 12px;
@@ -132,6 +144,14 @@ img{
 	margin-bottom: 8px;
 	padding-bottom: 10px;
 	float: right;
+}
+.linkbar a img{
+	width: 40px;
+	margin-right: 4px;
+}
+.linkbar a.wplink img{
+	width: 32px;
+	margin-right: 4px;
 }
 
 

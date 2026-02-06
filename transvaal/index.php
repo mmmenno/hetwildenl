@@ -54,6 +54,8 @@ include("_parts/header.php");
 
 			<h2>2026: Big Year</h2>
 
+			<p>In 2026 gaan we zoveel mogelijk soorten spotten.</p>
+
 			<p>Vogelaars kunnen nogal competitief zijn als het om lijstjes gaat. Dat resulteert soms in een <a href="https://en.wikipedia.org/wiki/Big_year">Big Year</a>, een jaar waarin ze op onmogelijke tijden opstaan en ongegeneerd fossiele brandstoffen verbranden om in een bepaald gebied (dit kan de hele wereld zijn) zoveel mogelijk vogelsoorten af te vinken.</p>
 			
 			<p>Ons Big Year houden we binnen de grenzen van de wijk. We beperken ons niet tot vogels. En we doen het samen.</p>
