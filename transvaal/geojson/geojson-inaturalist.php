@@ -21,7 +21,16 @@ $url .= "&nelng=4.650949527";
 $url .= "&year=2026";
 
 
-//echo $url;
+//die($url);
+
+//hier nog loop inbouwen totdat de waarnemingen allemaal binnen zijn
+/*$i=1;
+while ($i < 10) { // Check condition
+  $pageurl = $url . "&page=" . $i;
+  $i++; // Increment counter
+}
+*/
+
 
 $json = getInaturalistResults($url);
 $data = json_decode($json,true);
@@ -58,6 +67,9 @@ foreach ($data as $key => $obs) {
     );
     if(isset($obs['photos'][0]['thumb_url'])){
         $props['thumb'] = $obs['photos'][0]['square_url'];
+    }
+    if(isset($obs['taxon']['common_name']['name'])){
+        $props['label'] = $obs['taxon']['common_name']['name'];
     }
     $observation['properties'] = $props;
     $fc['features'][] = $observation;

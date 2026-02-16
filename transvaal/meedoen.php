@@ -65,6 +65,11 @@ include("_parts/header.php");
 			<p>Bij de Vlinderstichting vind je <a href="https://vlinderstichting.nl/wat-kan-jij-doen/tuinieren/vlindervriendelijke-tuin/">tips voor een vlindervriendelijke tuin</a>, bij Vogelbescherming <a href="https://www.vogelbescherming.nl/in-mijn-tuin/onze-tuinvogels">tips om van je tuin een vogelparadijs te maken</a>.</p>
 				
 
+			<h2>Insectenhotels</h2>
+
+			<p>De insectenhotels die je in tuincentra kunt kopen voldoen vaak niet. Zelf maken dus! Er zijn genoeg handleidingen voor het bouwen van <a href="https://groei.nl/artikel/insectenhotel-maken">insectenhotels</a> en <a href="https://groei.nl/tuin/tuininrichting/tuin-materialen/insectenbank-maken">insectenbankjes</a> (heb je zelf ook nog wat aan) te vinden.</p>
+
+			<p>Wil je echt de diepte in dan praat je Dave Goulson <a href="https://youtu.be/6c_YhzKD0mo">je hier in drie kwartier helemaal bij</a> (English!).</p>  
 
 		</div>
 
@@ -76,6 +81,11 @@ include("_parts/header.php");
 			<img style="width: 20%;" src="_assets/img/mastodon.svg" />
 
 			<p>We zijn <a href="https://mastodon.social/@bioboost_transvaal">actief op Mastodon</a> (een Europees en privacyvriendelijk alternatief voor Amerikaanse sociale media als X, Insta of Bluesky). We posten daar nieuwtjes, weetjes en leuke foto's, en je kunt daar makkelijk met ons in gesprek.</p>
+
+
+			<h2>Maak de straat groener</h2>
+
+			<p>De gemeente moedigt het aanleggen van geveltuintjes aan. Er zijn daarbij wel <a href="https://haarlem.nl/duurzaam/geveltuintjes">een paar spelregels</a>. Het zijn maar kleine beetjes groen en je kan er schamper over doen, maar uit <a href="https://www.universiteitleiden.nl/nieuws/2024/07/geveltuintjes-zijn-cruciaal-voor-biodiversiteit-in-de-stad">onderzoek</a> blijkt: het helpt de biodiversiteit echt vooruit!</p>
 				
 
 

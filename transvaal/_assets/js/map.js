@@ -48,7 +48,7 @@ function get_observations(){
 
     $.ajax({
         type: 'GET',
-        url: 'geojson/geojson-inaturalist.php?d=' + dayOfMonth,
+        url: 'geojson/geojson-inaturalist.php?day=' + dayOfMonth,
         dataType: 'json',
         data: '',
         success: function(jsonData) {
@@ -109,7 +109,7 @@ function get_observations(){
 
 function rollover() {
     var props = $(this)[0].feature.properties;
-    console.log(props)
+    //console.log(props)
     this.bindPopup($(this)[0].options.title)
     this.openPopup();
     var self = this;
@@ -142,10 +142,11 @@ function whenClicked(){
 
     var props = $(this)[0].feature.properties;
     //console.log(props);
-    props['mediumimg'] = props['thumb'].replace("square", "medium");
+    
 
     var infoimg = '';
     if(props['thumb'] !== undefined){
+        props['mediumimg'] = props['thumb'].replace("square", "medium");
         infoimg += '<img src="' + props['mediumimg'] + '" />';
     }
 

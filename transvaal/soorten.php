@@ -118,6 +118,7 @@ foreach ($wdinfo as $k => $v) {
 				$titel = $soort['name'];
 			}
 
+			$imgurl = '';
 			if(isset($soort['wikidata']['img'])) {
 				$imgurl = $soort['wikidata']['img']['value'] . "?width=500px";
 			}elseif(isset($soort['fotoos'][0])){
