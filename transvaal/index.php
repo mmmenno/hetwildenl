@@ -36,6 +36,10 @@ include("_parts/header.php");
 
 			<p>En toch, ook hier vinden planten tussen stoeptegels een huis, weten vlinders de bloemen tussen al het steen te vinden. De woestijn leeft (als je goed kijkt).</p>
 
+			<h2>Mastodon</h2>
+
+			<p><a rel="me" href="https://mastodon.social/@bioboost_transvaal">Volg ons op Mastodon</a> voor nieuws en aankondingen voor buurtsafari's en andere evenementen.</p>
+
 		</div>
 
 		<div class="col-md-3">
