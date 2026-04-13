@@ -35,6 +35,8 @@ while ($i < 10) { // Check condition
 $json = getInaturalistResults($url);
 $data = json_decode($json,true);
 
+//print_r($data);
+
 
 
 
