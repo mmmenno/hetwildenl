@@ -61,7 +61,7 @@ include("_parts/header.php");
 	</div>
 
 
-	<div class="row agenda-item">
+	<div class="row agenda-item greyed-out">
 		<div class="col-md-4">
 			
 			<h2>Zondag 19 april 12:15 - bijentelling Pretoriaplein</h2>
