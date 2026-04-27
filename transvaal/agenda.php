@@ -26,24 +26,7 @@ include("_parts/header.php");
 		</div>
 	</div>
 
-	<div class="row agenda-item">
-		<div class="col-md-4">
-			
-			<h2>Zondag 19 april 12:15 - bijentelling Pretoriaplein</h2>
-
-			<p>Van 16 tot en met 20 april vindt dit jaar de <a href="https://www.nationalebijentelling.nl/">Nationale Bijentelling</a> plaats. In Transvaalwijk gaan we zondag 19 april tellen, vanaf 12:15 uur.</p>
-
-			<p>Je hoeft geen bijenexpert zijn om mee te doen. Er zijn 16 soorten bijen (daar horen ook de verschillende soorten hommels bij) die je in Nederland kunt verwachten. De Nationale Bijentelling heeft een <a href="https://www.nationalebijentelling.nl/wp-content/uploads/2026/02/Bijengidsje-2026.pdf">bijengidsje</a> gemaakt waar ze allemaal in staan. En Meike heeft zich goed voorbereid, dus die kan vast helpen!</p>
-
-			<p>Na de telling kun je je nog aansluiten bij de tuindag op het plein. De potten worden die middag voorzien van vrolijke nieuwe plantjes.</p>
-
-		</div>
-		<div class="col-md-4">
-			<img src="_assets/img/bijentelling-poster.jpg" />
-		</div>
-		<div class="col-md-4">
-		</div>
-	</div>
+	
 
 
 
@@ -51,13 +34,13 @@ include("_parts/header.php");
 	<div class="row agenda-item">
 		<div class="col-md-4">
 			
-			<h2>Zondag 3 mei (tijd volgt) - Urban Birding Safari</h2>
+			<h2>Zondag 3 mei 8:00 uur - Urban Birding Safari</h2>
 
 			<p>Vogelkenner Robert wandelt met ons door de buurt op zoek naar vogels. Het tijdstip is nog niet bekend, maar waarschijnlijk VROEG!</p>
 
 			<p>We gaan zeker meeuwen zien, maar gelukkig zijn wij al wakker, dus we kunnen hun geschreeuw goed hebben. En we gaan een hoop andere soorten zien. En horen!</p>
 
-			<p>Heb je een verrekijker, neem 'm dan mee.</p>
+			<p>We verzamelen in de nieuwe Transvaal Deelt Buurtwerkplaats in de Ben Viljoenstraat, eerste deur rechts als je van de Paul Krugerkade komt. De deur is open vanaf 7:45, de koffie staat dan klaar. Heb je een verrekijker, neem 'm dan mee.</p>
 
 		</div>
 		<div class="col-md-4">
@@ -76,6 +59,27 @@ include("_parts/header.php");
 			<p class="lead">Onderstaande activiteiten zijn al geweest.</p>
 		</div>
 	</div>
+
+
+	<div class="row agenda-item">
+		<div class="col-md-4">
+			
+			<h2>Zondag 19 april 12:15 - bijentelling Pretoriaplein</h2>
+
+			<p>Van 16 tot en met 20 april vindt dit jaar de <a href="https://www.nationalebijentelling.nl/">Nationale Bijentelling</a> plaats. In Transvaalwijk gaan we zondag 19 april tellen, vanaf 12:15 uur.</p>
+
+			<p>Je hoeft geen bijenexpert zijn om mee te doen. Er zijn 16 soorten bijen (daar horen ook de verschillende soorten hommels bij) die je in Nederland kunt verwachten. De Nationale Bijentelling heeft een <a href="https://www.nationalebijentelling.nl/wp-content/uploads/2026/02/Bijengidsje-2026.pdf">bijengidsje</a> gemaakt waar ze allemaal in staan. En Meike heeft zich goed voorbereid, dus die kan vast helpen!</p>
+
+			<p>Na de telling kun je je nog aansluiten bij de tuindag op het plein. De potten worden die middag voorzien van vrolijke nieuwe plantjes.</p>
+
+		</div>
+		<div class="col-md-4">
+			<img src="_assets/img/bijentelling-poster.jpg" />
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+	
 
 	<div class="row agenda-item greyed-out">
 		<div class="col-md-4">
