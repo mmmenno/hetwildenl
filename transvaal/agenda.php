@@ -34,7 +34,7 @@ include("_parts/header.php");
 	<div class="row agenda-item">
 		<div class="col-md-4">
 			
-			<h2>Zondag 3 mei 8:00 uur - Urban Birding Safari</h2>
+			<h2>Zondag 3 mei 8:00 uur - Urban Birding Buurtsafari</h2>
 
 			<p>Vogelkenner Robert wandelt met ons door de buurt op zoek naar vogels. We gaan zeker meeuwen zien, maar gelukkig zijn wij al wakker, dus we kunnen hun geschreeuw goed hebben. En we gaan een hoop andere soorten zien. En horen!</p>
 
