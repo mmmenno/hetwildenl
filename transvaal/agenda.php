@@ -36,11 +36,9 @@ include("_parts/header.php");
 			
 			<h2>Zondag 3 mei 8:00 uur - Urban Birding Safari</h2>
 
-			<p>Vogelkenner Robert wandelt met ons door de buurt op zoek naar vogels. Het tijdstip is nog niet bekend, maar waarschijnlijk VROEG!</p>
+			<p>Vogelkenner Robert wandelt met ons door de buurt op zoek naar vogels. We gaan zeker meeuwen zien, maar gelukkig zijn wij al wakker, dus we kunnen hun geschreeuw goed hebben. En we gaan een hoop andere soorten zien. En horen!</p>
 
-			<p>We gaan zeker meeuwen zien, maar gelukkig zijn wij al wakker, dus we kunnen hun geschreeuw goed hebben. En we gaan een hoop andere soorten zien. En horen!</p>
-
-			<p>We verzamelen in de nieuwe Transvaal Deelt Buurtwerkplaats in de Ben Viljoenstraat, eerste deur rechts als je van de Paul Krugerkade komt. De deur is open vanaf 7:45, de koffie staat dan klaar. Heb je een verrekijker, neem 'm dan mee.</p>
+			<p>We verzamelen in de nieuwe Transvaal Deelt Buurtwerkplaats in de Ben Viljoenstraat, eerste deur rechts als je van de Paul Krugerkade komt. De deur is open vanaf 7:45, de koffie staat dan klaar. Heb je een verrekijker, neem 'm dan mee. Wij hebben er ook wel een paar.</p>
 
 		</div>
 		<div class="col-md-4">
