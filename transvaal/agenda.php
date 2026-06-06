@@ -34,15 +34,15 @@ include("_parts/header.php");
 	<div class="row agenda-item">
 		<div class="col-md-4">
 			
-			<h2>Zondag 3 mei 8:00 uur - Urban Birding Buurtsafari</h2>
+			<h2>Zaterdag 6 juni - aanleggen geveltuin Volharding</h2>
 
-			<p>Vogelkenner Robert wandelt met ons door de buurt op zoek naar vogels. We gaan zeker meeuwen zien, maar gelukkig zijn wij al wakker, dus we kunnen hun geschreeuw goed hebben. En we gaan een hoop andere soorten zien. En horen!</p>
+			<p>De stoep voor de Volharding, bij het hoekje Ben Viljoenstraat / Paul Krugerkade, wordt deels gewipt om een geveltuin tegen het pand te maken. In het pand komt een Dagkafee voor de buurt, en daar wil je natuurlijk wel een beetje groen voor hebben.</p>
 
-			<p>We verzamelen in de nieuwe Transvaal Deelt Buurtwerkplaats in de Ben Viljoenstraat, eerste deur rechts als je van de Paul Krugerkade komt. De deur is open vanaf 7:45, de koffie staat dan klaar. Heb je een verrekijker, neem 'm dan mee. Wij hebben er ook wel een paar.</p>
+			<p>We beginnen rond 12 uur, alle hulp welkom!</p>
 
 		</div>
 		<div class="col-md-4">
-			<img src="_assets/img/meeuwen.jpg" />
+			<img src="_assets/img/gevel.png" />
 		</div>
 		<div class="col-md-4">
 		</div>
@@ -55,6 +55,23 @@ include("_parts/header.php");
 		<div class="col-md-12">
 			<h1 style="margin-top:100px;">Al voorbij</h1>
 			<p class="lead">Onderstaande activiteiten zijn al geweest.</p>
+		</div>
+	</div>
+
+	<div class="row agenda-item greyed-out">
+		<div class="col-md-4">
+			
+			<h2>Zondag 3 mei 8:00 uur - Urban Birding Buurtsafari</h2>
+
+			<p>Vogelkenner Robert wandelt met ons door de buurt op zoek naar vogels. We gaan zeker meeuwen zien, maar gelukkig zijn wij al wakker, dus we kunnen hun geschreeuw goed hebben. En we gaan een hoop andere soorten zien. En horen!</p>
+
+			<p>We verzamelen in de nieuwe Transvaal Deelt Buurtwerkplaats in de Ben Viljoenstraat, eerste deur rechts als je van de Paul Krugerkade komt. De deur is open vanaf 7:45, de koffie staat dan klaar. Heb je een verrekijker, neem 'm dan mee. Wij hebben er ook wel een paar.</p>
+
+		</div>
+		<div class="col-md-4">
+			<img src="_assets/img/meeuwen.jpg" />
+		</div>
+		<div class="col-md-4">
 		</div>
 	</div>
 
