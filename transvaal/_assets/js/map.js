@@ -16,7 +16,7 @@ function createMap(){
       center: center,
       zoom: zoomlevel,
       minZoom: 1,
-      maxZoom: 20,
+      maxZoom: 19,
       scrollWheelZoom: true,
       zoomControl: false
     });
@@ -25,11 +25,9 @@ function createMap(){
         position: 'bottomright'
     }).addTo(map);
 
-    overviewLayer = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.{ext}', {
-    minZoom: 0,
-    maxZoom: 20,
-    attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    ext: 'png'
+    overviewLayer = L.tileLayer('https://tile.openstreetmap.bzh/ca/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles courtesy of <a href="https://www.openstreetmap.cat" target="_blank">Breton OpenStreetMap Team</a>'
 }).addTo(map);
     
 
