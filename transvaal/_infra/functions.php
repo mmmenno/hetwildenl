@@ -4,7 +4,7 @@
 function getInaturalistResults($url){
 
 	// params
-	$cache = true;
+	$cache = false;
 	$urlhash = hash("md5",$url);
 	$datafile = __DIR__ . "/inaturalistdata/" . $urlhash . ".json";
 	$maxcachetime = 60*60*24*5;

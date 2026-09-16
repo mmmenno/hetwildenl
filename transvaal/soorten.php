@@ -3,6 +3,8 @@
 include("_parts/header.php");
 include("_infra/functions.php");
 
+/* realtime version, but flawed (only gets first page)
+
 // build query
 $url = "https://www.inaturalist.org/observations.json?per_page=200";
 $url .= "&swlat=52.38668471";
@@ -10,17 +12,32 @@ $url .= "&swlng=4.633698006";
 $url .= "&nelat=52.39636799";
 $url .= "&nelng=4.650949527";
 $url .= "&year=2026";
-//echo $url;
+echo $url;
+
+die;
 
 $json = getInaturalistResults($url);
 $data = json_decode($json,true);
 
-//print_r($data);
+print_r($data);
+*/
+
+// static version:
+
+$json = file_get_contents(__DIR__ . "/_infra/all.json");
+$data = json_decode($json,true);
 
 $soorten = array();
 $soortids = array();
 
 foreach ($data as $key => $value) {
+
+	if(!isset($value['taxon']['id'])){
+		//print_r($value);
+		continue;
+	}
+
+
 	$soortids[$value['taxon']['id']] = $value['taxon']['id'];
 
 	if(!isset($soorten[$value['taxon']['id']])){

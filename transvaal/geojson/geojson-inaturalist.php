@@ -8,7 +8,7 @@ include("../_infra/functions.php");
 
 
 
-
+/* OLD METHOD: GET REALTIME FROM API
 // create new geojon
 // get data from inaturalist api
 
@@ -21,24 +21,18 @@ $url .= "&nelng=4.650949527";
 $url .= "&year=2026";
 
 
-//die($url);
-
-//hier nog loop inbouwen totdat de waarnemingen allemaal binnen zijn
-/*$i=1;
-while ($i < 10) { // Check condition
-  $pageurl = $url . "&page=" . $i;
-  $i++; // Increment counter
-}
-*/
-
 
 $json = getInaturalistResults($url);
 $data = json_decode($json,true);
 
 //print_r($data);
+*/
 
 
+// NEW METHOD: GET STATIC FILE
 
+$json = file_get_contents(__DIR__ . "/../_infra/all.json");
+$data = json_decode($json,true);
 
 
 

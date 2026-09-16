@@ -34,15 +34,15 @@ include("_parts/header.php");
 	<div class="row agenda-item">
 		<div class="col-md-4">
 			
-			<h2>Zaterdag 6 juni - aanleggen geveltuin Volharding</h2>
+			<h2>Zaterdag 19 september - vleermuissafari!</h2>
 
-			<p>De stoep voor de Volharding, bij het hoekje Ben Viljoenstraat / Paul Krugerkade, wordt deels gewipt om een geveltuin tegen het pand te maken. In het pand komt een Dagkafee voor de buurt, en daar wil je natuurlijk wel een beetje groen voor hebben.</p>
+			<p>Met Vleermuisexpert Bart gaan we op zoek naar vleermuizen. Bart neemt een batdetector mee, dus als we geen vleermuizen zien, dan kunnen we ze misschien wel horen! We beginnen om 19:45 uur en we verzamelen in de werkplaats van <a href="https://www.transvaaldeelt.nl">Transvaal Deelt</a> aan de Ben Viljoenstraat (eerste deur rechts als je vanaf de Paul Krugerkade komt.</p>
 
-			<p>We beginnen rond 12 uur, alle hulp welkom!</p>
+			<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScZH5KWDOgk7OQg01IUP1XyYBUNtBECbetwgTKej80FJ5nYxw/viewform">Geef je snel op voor deze buurtsafari!</a> Er is plaats voor een tiental deelnemers.</p>
 
 		</div>
 		<div class="col-md-4">
-			<img src="_assets/img/gevel.png" />
+			<img src="_assets/img/vleermuis.jpg" />
 		</div>
 		<div class="col-md-4">
 		</div>
@@ -55,6 +55,41 @@ include("_parts/header.php");
 		<div class="col-md-12">
 			<h1 style="margin-top:100px;">Al voorbij</h1>
 			<p class="lead">Onderstaande activiteiten zijn al geweest.</p>
+		</div>
+	</div>
+
+
+	<div class="row agenda-item greyed-out">
+		<div class="col-md-4">
+			
+			<h2>Zaterdag 16 juli - buurtplantjes stoeptour</h2>
+
+			<p>Donderdagavond 16 juli lopen we onder deskundige begeleiding van Bertien Besteman een uurtje langs allerlei dappere plantjes die zich tussen het gesteente staande houden.</p>
+
+			<p>Iedereen welkom! Na afloop kunnen we nog een drankje doen in het nieuwe Dagcafé van De Volharding.</p>
+
+		</div>
+		<div class="col-md-4">
+			<img src="_assets/img/buurtplantjes.jpg" />
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+
+	<div class="row agenda-item greyed-out">
+		<div class="col-md-4">
+			
+			<h2>Zaterdag 6 juni - aanleggen geveltuin Volharding</h2>
+
+			<p>De stoep voor de Volharding, bij het hoekje Ben Viljoenstraat / Paul Krugerkade, wordt deels gewipt om een geveltuin tegen het pand te maken. In het pand komt een Dagkafee voor de buurt, en daar wil je natuurlijk wel een beetje groen voor hebben.</p>
+
+			<p>We beginnen rond 12 uur, alle hulp welkom!</p>
+
+		</div>
+		<div class="col-md-4">
+			<img src="_assets/img/gevel.png" />
+		</div>
+		<div class="col-md-4">
 		</div>
 	</div>
 
